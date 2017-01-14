@@ -2,6 +2,8 @@
 
 This is a list of links to learning ressources that are relevant for my personnal development program:
 
+
+<a name="ds" />
 # Data Science:
 
 ## Computer Science:
@@ -63,6 +65,7 @@ quick access:
 & 
 [Course guides](https://metacademy.org/course_guides/)
 
+<a name="fonda" />
 # Fondamentals in Maths & Physics:
 
 ## Probabilities:
@@ -99,10 +102,16 @@ with
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
 
+<a name="web" />
 # Web Technologies:
 
 ## JS world:
 
+## Design & Front-end:
+
+## Frameworks & Back-up
+
+<a name="deen" />
 # دين و فكر
 
 ## تفسير القرآن
