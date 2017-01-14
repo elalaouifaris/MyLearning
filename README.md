@@ -147,6 +147,10 @@ React ressources:
 <a name="web_be" />
 ## Frameworks & Back-up
 
+[Phoenix Framework](http://www.phoenixframework.org/) 
+based on  
+[Elixir](http://elixir-lang.org/)
+
 <a name="deen" />
 # دين و فكر
 
