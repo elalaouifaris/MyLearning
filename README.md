@@ -148,7 +148,7 @@ React ressources:
 ## Frameworks & Back-up
 
 [Phoenix Framework](http://www.phoenixframework.org/) 
-based on  
+based on 
 [Elixir](http://elixir-lang.org/)
 
 <a name="deen" />
