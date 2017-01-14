@@ -2,6 +2,8 @@
 
 This is a list of links to learning ressources that are relevant for my personnal development program:
 
+# Data Science:
+
 ## Computer Science:
 [The wizard book](https://mitpress.mit.edu/sicp/) functional programming
 
@@ -39,6 +41,22 @@ Nando De Freitas:
 [ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
 [Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
 
+[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
+quick access:
+[book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
+[Mooc](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+
+[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/), 
+quick access:
+[book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+
+[Reinforcement Learning Sutton & Barto](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html),
+quick access:
+[book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+
+[Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+# Fondamentals in Maths & Physics:
 
 ## Probabilities:
 [MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
@@ -71,3 +89,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
+
+# Web Technologies:
+
+## JS world:
+
