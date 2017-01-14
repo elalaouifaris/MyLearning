@@ -41,6 +41,8 @@ This is a list of links to learning ressources that are relevant for my personna
 
 <a name="ds_r" />
 ## R Programming:
+[Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
+
 [R for Data Science](http://r4ds.had.co.nz/)
 
 [Advanced R](http://adv-r.had.co.nz/)
