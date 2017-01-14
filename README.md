@@ -90,7 +90,9 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 ## Physics:
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
 
-[Susskind courses](http://theoreticalminimum.com/courses) with [lecture notes](http://www.lecture-notes.co.uk/susskind/)
+[Susskind courses](http://theoreticalminimum.com/courses) 
+with 
+[lecture notes](http://www.lecture-notes.co.uk/susskind/)
 
 [Landau & Lifschitz](https://www.reddit.com/r/Physics/comments/1dmxq7/our_beloved_landaulifshitz_books_are_available/)
 
@@ -101,3 +103,10 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 ## JS world:
 
+# دين و فكر
+
+## تفسير القرآن
+[التحرير و التنوير](https://archive.org/details/tahrer_tanwer)
+
+## فقه
+[كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
