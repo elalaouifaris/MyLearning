@@ -3,9 +3,10 @@
 This is a list of links to learning ressources that are relevant for my personnal development program:
 - [Data Science](#ds)
   - [Computer Science](#ds_cs)
+  - [Machine Learning & AI](#ds_ml)
   - [Python](#ds_py)
   - [R Programming](#ds_r)
-  - [Machine Learning & AI](#ds_ml)
+  - [Hadoop, Spark & co](#ds_scale)
   - [Collections](#ds_col)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Probability Theory](#fonda_proba)
@@ -32,22 +33,6 @@ This is a list of links to learning ressources that are relevant for my personna
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
-
-<a name="ds_py" />
-## Python:
-[Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
-
-[Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
-
-<a name="ds_r" />
-## R Programming:
-[Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
-
-[R for Data Science](http://r4ds.had.co.nz/)
-
-[Advanced R](http://adv-r.had.co.nz/)
-
-[R inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 
 <a name="ds_ml" />
 ## Machine Learning & AI:
@@ -80,6 +65,28 @@ quick access:
 [book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+<a name="ds_py" />
+## Python:
+[Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
+
+[Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
+
+<a name="ds_r" />
+## R Programming:
+[Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
+
+[R for Data Science](http://r4ds.had.co.nz/)
+
+[Advanced R](http://adv-r.had.co.nz/)
+
+[R inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+
+[R Programming for beginners](https://www.youtube.com/playlist?list=PLBMSsiJP18O-oUNrDn6bEDAZJ3ne-rylG) (Arabic)
+
+<a name="ds_scale" />
+## Hadoop, Spark & co:
+[Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
 
 <a name="ds_col" />
 ## Collections:
