@@ -31,8 +31,13 @@ This is a list of links to learning ressources that are relevant for my personna
 [Berkeley AI CS188](https://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html) 
 version: 
 [2014](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/)
-ou
+or
 [youtube 2015](https://www.youtube.com/playlist?list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
+
+Nando De Freitas: 
+[ML Undergrad](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf), 
+[ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
+[Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
 
 
 ## Probabilities:
@@ -46,8 +51,8 @@ ou
 
 [Stanford Convex Optimization](http://stanford.edu/~boyd/cvxbook/) 
 quick access: 
-[Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 
-[Mooc](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) 
+[Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), 
+[Mooc](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), 
 [Youtube](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
