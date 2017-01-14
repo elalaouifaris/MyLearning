@@ -1,11 +1,18 @@
 # MyLearning
 
 This is a list of links to learning ressources that are relevant for my personnal development program:
-
+- [Data Science](#ds)
+  - [Computer Science](#ds_cs)
+  - [Python](#ds_py)
+  - [R Programming](#ds_r)
+- [Fondamentals in Maths & Physics](#fonda)
+- [Web Technologies](#web)
+- [دين و فكر](#deen)
 
 <a name="ds" />
 # Data Science:
 
+<a name="ds_cs" />
 ## Computer Science:
 [The wizard book](https://mitpress.mit.edu/sicp/) functional programming
 
@@ -15,11 +22,13 @@ This is a list of links to learning ressources that are relevant for my personna
 
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
 
+<a name="ds_py" />
 ## Python:
 [Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
 
 [Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
 
+<a name="ds_r" />
 ## R Programming:
 [R for Data Science](http://r4ds.had.co.nz/)
 
@@ -106,8 +115,16 @@ with
 # Web Technologies:
 
 ## JS world:
+[FeeCodeCamp](https://www.freecodecamp.com/)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Design & Front-end:
+[CSS Layout](http://learnlayout.com/)
+
+React ressources: 
+[FreeCodeCamp Blog Post](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880),
+
 
 ## Frameworks & Back-up
 
