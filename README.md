@@ -41,6 +41,8 @@ Nando De Freitas:
 
 
 ## Probabilities:
+[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
+
 [Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
 
 [Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
