@@ -56,6 +56,13 @@ quick access:
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
+## Collections:
+[Awesome courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+
+[Roadmaps](https://metacademy.org/roadmaps/)
+& 
+[Course guides](https://metacademy.org/course_guides/)
+
 # Fondamentals in Maths & Physics:
 
 ## Probabilities:
