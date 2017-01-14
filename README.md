@@ -55,6 +55,9 @@ quick access:
 [Mooc](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), 
 [Youtube](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
+[Dynamic Programming & Optimal Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/), 
+Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
+
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ## Physics:
