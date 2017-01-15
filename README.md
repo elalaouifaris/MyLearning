@@ -151,7 +151,7 @@ with
 [CSS Layout](http://learnlayout.com/)
 
 React ressources: 
-[FreeCodeCamp Blog Post](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880),
+,
 
 <a name="web_be" />
 ## Frameworks & Back-up
