@@ -51,6 +51,8 @@ Nando De Freitas:
 [ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
 [Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
 
+[fast.ai deep learning course](http://course.fast.ai/index.html) by Jeremy Howard
+
 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
 quick access:
 [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
