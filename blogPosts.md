@@ -7,6 +7,7 @@ Idex:
     - [linux](#tech_os_linux)
   - [Programming](#tech_prog)
     - [Scheme](#tech_prog_scheme)
+    - [Haskell](#tech_prog_haskell)
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
@@ -33,6 +34,10 @@ Idex:
 <a name="tech_prog_scheme" />
 ### Scheme:
 [Setting-up MIT Scheme on Mac](https://thesabbir.com/setting-up-mit-scheme-on-os-x-yosemite-with-homebrew/)
+
+<a name="tech_prog_haskell" />
+### Haskell:
+[Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 
 <a name="cs" />
 # CS Ideas:
