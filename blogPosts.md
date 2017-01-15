@@ -10,7 +10,9 @@
 
 # CS Ideas:
 
-# Trends:
+# Trends & Soft Skills:
+## Management:
+[Stop paying executives on performance](React’s Five Fingers of Death)
 
 # Science:
 ## Q world:
