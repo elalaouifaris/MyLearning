@@ -8,6 +8,7 @@ Idex:
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
+  - [Regional Trends](#trends_regional)
 - [Science](#sci)
   - [Quantum World](#sci_qw)
 
@@ -33,6 +34,10 @@ Idex:
 <a name="trends_management" />
 ## Management:
 [Stop paying executives on performance](React’s Five Fingers of Death)
+
+<a name="trends_regional" />
+## Regional Trends:
+[Montreal is leading the AI world takeover](http://www.cloudraker.com/en/cloud-co/montreal-is-leading-the-ai-world-takeover)
 
 <a name="sci" />
 # Science:
