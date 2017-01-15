@@ -3,8 +3,10 @@ Idex:
 - [Tech Tools](#tech)
   - [JS Frameworks](#tech_js)
     - [React](#tech_js_react)
-  - [OS & Productivity](#os)
-    - [linux](#os_linux)
+  - [OS & Productivity](#tech_os)
+    - [linux](#tech_os_linux)
+  - [Programming](#tech_prog)
+    - [Scheme](#tech_prog_scheme)
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
@@ -20,11 +22,17 @@ Idex:
 ### React:
 [React’s Five Fingers of Death](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880)
 
-<a name="os" />
+<a name="tech_os" />
 ## OS & productivity:
-<a name="as_linux" />
+<a name="tech_os_linux" />
 ### Linux:
 [Bash tutorial](https://www.blockloop.io/mastering-bash-and-terminal)
+
+<a name="tech_prog" />
+## Programming:
+<a name="tech_prog_scheme" />
+### Scheme:
+[Setting-up MIT Scheme on Mac](https://thesabbir.com/setting-up-mit-scheme-on-os-x-yosemite-with-homebrew/)
 
 <a name="cs" />
 # CS Ideas:
