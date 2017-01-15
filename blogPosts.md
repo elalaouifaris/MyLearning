@@ -1,6 +1,10 @@
 # Blog Posts To Read:
 
 # Tech Tools
+## JS Frameworks:
+### React:
+[React’s Five Fingers of Death](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880)
+
 ## OS & productivity:
 [Bash tutorial](https://www.blockloop.io/mastering-bash-and-terminal)
 
