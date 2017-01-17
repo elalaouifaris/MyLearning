@@ -140,6 +140,8 @@ with
 
 [Notes on Thermodynamics & statistical mechanics](http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf)
 
+[Héritier: Mécanique statistique et transition de phase](https://cel.archives-ouvertes.fr/cel-00092939/document)
+
 <a name="fonda_pluri" />
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
