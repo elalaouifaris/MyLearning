@@ -110,6 +110,9 @@ quick access:
 [Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
 [knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
 
+## Stochastic processes:
+[Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
+
 <a name="fonda_math_cs" />
 ## Maths for CS Foundations:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
