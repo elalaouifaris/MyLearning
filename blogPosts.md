@@ -51,6 +51,7 @@ Idex:
 <a name="trends_regional" />
 ## Regional Trends:
 [Montreal is leading the AI world takeover](http://www.cloudraker.com/en/cloud-co/montreal-is-leading-the-ai-world-takeover)
+
 [World's Most Innovative Economies](https://www.bloomberg.com/news/articles/2017-01-17/sweden-gains-south-korea-reigns-as-world-s-most-innovative-economies)
 
 <a name="sci" />
