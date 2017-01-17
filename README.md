@@ -138,6 +138,8 @@ with
 
 [Landau & Lifschitz](https://www.reddit.com/r/Physics/comments/1dmxq7/our_beloved_landaulifshitz_books_are_available/)
 
+[Notes on Thermodynamics & statistical mechanics](http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf)
+
 <a name="fonda_pluri" />
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
