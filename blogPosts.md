@@ -42,6 +42,13 @@ Idex:
 ### Haskell:
 [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 
+### Elixir:
+Learn Elixir with a Rubyist:
+[Ep1](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-i)
+[Ep2](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-ii)
+[Ep3](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iii)
+[Ep4](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iv)
+
 <a name="cs" />
 # CS Ideas:
 
