@@ -9,4 +9,5 @@ Links to interesting librairies in R python, JS, Julia ... etc to check when I h
 ## React:
 [Create React App](https://github.com/facebookincubator/create-react-app) Boiler plates by Facebook
 
+[React boilterplate](http://reactboilerplate.com/) with more info [here](https://ponyfoo.com/articles/progressive-app-serviceworker)
 # Julia:
