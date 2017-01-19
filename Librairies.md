@@ -13,4 +13,9 @@ Links to interesting librairies in R python, JS, Julia ... etc to check when I h
 [React boilterplate](http://reactboilerplate.com/) with more info [here](https://ponyfoo.com/articles/progressive-app-serviceworker)
 
 [Next](https://zeit.co/blog/next) React boilerplate with server side rendering
+
+## Testing:
+[Jest](http://facebook.github.io/jest/) by Facebook
+
+[Ava](https://github.com/avajs/ava)
 # Julia:
