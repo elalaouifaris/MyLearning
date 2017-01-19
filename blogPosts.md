@@ -20,6 +20,9 @@ Idex:
 <a name="tech_js" />
 ## JS Frameworks:
 <a name="tech_js_react" />
+### Trends:
+[Rising stars 2016](https://risingstars2016.js.org/)
+
 ### React:
 [React’s Five Fingers of Death](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880)
 
