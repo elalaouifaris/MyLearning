@@ -5,6 +5,8 @@ Links to interesting librairies in R python, JS, Julia ... etc to check when I h
 ## Deep learning:
 [Kur](http://kur.deepgram.com/) for high level deep learning & API
 
+[PyTorch](http://pytorch.org/)
+
 # JS:
 ## React:
 ### React Boilerplate:
