@@ -8,6 +8,9 @@ Links to interesting librairies in R python, JS, Julia ... etc to check when I h
 [PyTorch](http://pytorch.org/)
 
 # JS:
+## HTML 5 Plugins:
+[Video JS](http://videojs.com/)
+
 ## React:
 ### React Boilerplate:
 [Create React App](https://github.com/facebookincubator/create-react-app) Boiler plates by Facebook
