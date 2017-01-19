@@ -18,4 +18,10 @@ Links to interesting librairies in R python, JS, Julia ... etc to check when I h
 [Jest](http://facebook.github.io/jest/) by Facebook
 
 [Ava](https://github.com/avajs/ava)
+
+## Static Web Sites Generation:
+[Hexo](https://hexo.io/) with md support & internationalization
+
+[Gatsby](https://github.com/gatsbyjs/gatsby) Combines md with react
+
 # Julia:
