@@ -69,3 +69,6 @@ Learn Elixir with a Rubyist:
 <a name="sci_qw" />
 ## Quantum World:
 [The trouble with quantum mechanics](http://www.nybooks.com/articles/2017/01/19/trouble-with-quantum-mechanics/)
+
+## Material Science:
+[Graphene Superconductivity](https://www.cam.ac.uk/research/news/graphenes-sleeping-superconductivity-awakens)
