@@ -49,6 +49,8 @@ Learn Elixir with a Rubyist:
 [Ep3](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iii)
 [Ep4](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iv)
 
+[Elixir best Practices](https://engineering.appcues.com/2016/02/02/too-many-dicts.html) On the use of data structures
+
 <a name="cs" />
 # CS Ideas:
 
