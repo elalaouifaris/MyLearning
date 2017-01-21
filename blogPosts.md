@@ -58,6 +58,10 @@ Learn Elixir with a Rubyist:
 
 <a name="trends" />
 # Trends & Soft Skills:
+<a name="trends_data" />
+## Data World:
+[The new gold rush?](http://mattturck.com/2017/01/17/the-new-gold-rush-wall-street-wants-your-data/) Use of start-up data in wallstreet
+
 <a name="trends_management" />
 ## Management:
 [Stop paying executives on performance](React’s Five Fingers of Death)
