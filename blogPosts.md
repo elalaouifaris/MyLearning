@@ -8,6 +8,7 @@ Idex:
   - [Programming](#tech_prog)
     - [Scheme](#tech_prog_scheme)
     - [Haskell](#tech_prog_haskell)
+    - [Elixir](#tech_prog_elixir)
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
@@ -42,6 +43,7 @@ Idex:
 ### Haskell:
 [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 
+<a name="tech_prog_elixir" />
 ### Elixir:
 Learn Elixir with a Rubyist:
 [Ep1](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-i)
