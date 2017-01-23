@@ -1,9 +1,10 @@
 # MyLearning
 
-This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md)):
+This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md) and a list of [programming librairies](#Librairies) to expore):
 - [Data Science](#ds)
   - [Computer Science](#ds_cs)
   - [Machine Learning & AI](#ds_ml)
+  - [Time Series](#ds_ts)
   - [Python](#ds_py)
   - [R Programming](#ds_r)
   - [Hadoop, Spark & co](#ds_scale)
@@ -67,6 +68,11 @@ quick access:
 [book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+<a name="ds_ts" />
+## Time Series:
+[Forecasting Principles & Practice](https://www.otexts.org/book/fpp)
+
 
 <a name="ds_py" />
 ## Python:
