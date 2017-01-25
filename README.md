@@ -88,6 +88,8 @@ quick access:
 
 [Advanced R](http://adv-r.had.co.nz/)
 
+[Efficient R Programming](https://csgillespie.github.io/efficientR/index.html#building-the-book)
+
 [R inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 
 [R Programming for beginners](https://www.youtube.com/playlist?list=PLBMSsiJP18O-oUNrDn6bEDAZJ3ne-rylG) (Arabic)
