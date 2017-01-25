@@ -134,6 +134,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic
 
+[Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
+
 <a name="fonda_phy" />
 ## Physics:
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
