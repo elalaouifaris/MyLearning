@@ -8,6 +8,7 @@ Idex:
   - [Programming](#tech_prog)
     - [Scheme](#tech_prog_scheme)
     - [Haskell](#tech_prog_haskell)
+    - [Erlang](#tech_prog_erlang)
     - [Elixir](#tech_prog_elixir)
     - [Go](#tech_prog_go)
 - [CS Ideas](#cs)
@@ -43,6 +44,11 @@ Idex:
 <a name="tech_prog_haskell" />
 ### Haskell:
 [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
+
+<a name="tech_prog_erlang" />
+### Erlang:
+[What's all the fuss with Erlang](https://pragprog.com/articles/erlang/)
+
 
 <a name="tech_prog_elixir" />
 ### Elixir:
