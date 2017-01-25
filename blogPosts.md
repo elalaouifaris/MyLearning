@@ -11,6 +11,7 @@ Idex:
     - [Erlang](#tech_prog_erlang)
     - [Elixir](#tech_prog_elixir)
     - [Go](#tech_prog_go)
+    - [Python](#tech_prog_python)
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
@@ -63,6 +64,10 @@ Learn Elixir with a Rubyist:
 <a name="tech_prog_go" />
 ### Go:
 [Migrating Scala to Go](https://movio.co/blog/migrate-Scala-to-Go/)
+
+<a name="tech_prog_python" />
+### Python:
+[Problems I have with Python](http://darkf.github.io/posts/problems-i-have-with-python.html)
 
 <a name="cs" />
 # CS Ideas:
