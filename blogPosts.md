@@ -9,6 +9,7 @@ Idex:
     - [Scheme](#tech_prog_scheme)
     - [Haskell](#tech_prog_haskell)
     - [Elixir](#tech_prog_elixir)
+    - [Go](#tech_prog_go)
 - [CS Ideas](#cs)
 - [Trends & Soft Skills](#trends)
   - [Management](#trends_management)
@@ -52,6 +53,10 @@ Learn Elixir with a Rubyist:
 [Ep4](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iv)
 
 [Elixir best Practices](https://engineering.appcues.com/2016/02/02/too-many-dicts.html) On the use of data structures
+
+<a name="tech_prog_go" />
+### Go:
+[Migrating Scala to Go](https://movio.co/blog/migrate-Scala-to-Go/)
 
 <a name="cs" />
 # CS Ideas:
