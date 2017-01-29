@@ -94,7 +94,7 @@ quick access:
 
 [R Programming for beginners](https://www.youtube.com/playlist?list=PLBMSsiJP18O-oUNrDn6bEDAZJ3ne-rylG) (Arabic)
 
-[R markdown](https://bookdown.org/yihui/bookdown/)
+[Bookdown](https://bookdown.org/yihui/bookdown/)
 
 <a name="ds_scale" />
 ## Hadoop, Spark & co:
