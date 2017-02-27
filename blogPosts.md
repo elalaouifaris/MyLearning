@@ -89,6 +89,9 @@ Learn Elixir with a Rubyist:
 
 [World's Most Innovative Economies](https://www.bloomberg.com/news/articles/2017-01-17/sweden-gains-south-korea-reigns-as-world-s-most-innovative-economies)
 
+## Digital:
+[How to self-publish a book in 2017](http://www.zhubert.com/blog/2017/02/25/how-to-self-publish-a-novel-in-2017/)
+
 <a name="sci" />
 # Science:
 <a name="sci_qw" />
