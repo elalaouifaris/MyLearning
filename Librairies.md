@@ -1,5 +1,14 @@
 Links to interesting librairies in R python, JS, Julia ... etc to check when I have time!
 # R:
+## Forecasting:
+[Facebook Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
+
+[Google Causal Impact](https://google.github.io/CausalImpact/CausalImpact.html)
+
+Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and 
+[Breakout Detection](https://github.com/twitter/BreakoutDetection) packages
+
+[EDF Opera](https://github.com/Dralliag/opera) package
 
 # Python:
 ## Deep learning:
