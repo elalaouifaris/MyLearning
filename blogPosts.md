@@ -71,7 +71,8 @@ Learn Elixir with a Rubyist:
 
 <a name="cs" />
 # CS Ideas:
-
+## Machine Learning:
+[Deep Reinforcement Learning Review](https://arxiv.org/abs/1701.07274)
 <a name="trends" />
 # Trends & Soft Skills:
 <a name="trends_data" />
