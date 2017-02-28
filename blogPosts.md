@@ -73,6 +73,9 @@ Learn Elixir with a Rubyist:
 # CS Ideas:
 ## Machine Learning:
 [Deep Reinforcement Learning Review](https://arxiv.org/abs/1701.07274)
+
+[Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
+
 <a name="trends" />
 # Trends & Soft Skills:
 <a name="trends_data" />
