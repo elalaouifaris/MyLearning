@@ -140,6 +140,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
 
+[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
 <a name="fonda_phy" />
 ## Physics:
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
