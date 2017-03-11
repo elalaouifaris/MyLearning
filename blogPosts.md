@@ -86,6 +86,8 @@ Learn Elixir with a Rubyist:
 ## Management:
 [Stop paying executives on performance](React’s Five Fingers of Death)
 
+[My Response to “How to *never* complete anything”](https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/)
+
 <a name="trends_regional" />
 ## Regional Trends:
 [Montreal is leading the AI world takeover](http://www.cloudraker.com/en/cloud-co/montreal-is-leading-the-ai-world-takeover)
