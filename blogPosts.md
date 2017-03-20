@@ -1,5 +1,5 @@
 # Blog Posts To Read:
-Idex:
+Index:
 - [Tech Tools](#tech)
   - [JS Frameworks](#tech_js)
     - [React](#tech_js_react)
