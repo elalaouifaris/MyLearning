@@ -69,6 +69,7 @@ Learn Elixir with a Rubyist:
 
 [Elixir best Practices](https://engineering.appcues.com/2016/02/02/too-many-dicts.html) On the use of data structures
 
+
 <a name="tech_prog_go" />
 ### Go:
 [Migrating Scala to Go](https://movio.co/blog/migrate-Scala-to-Go/)
