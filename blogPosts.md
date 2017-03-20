@@ -59,6 +59,14 @@ Learn Elixir with a Rubyist:
 [Ep3](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iii)
 [Ep4](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-iv)
 
+[Python & Elixir](https://klibert.pl/statics/python-and-elixir/#/)
+
+[Using Elixir together with F#](https://vimeo.com/204256426)
+
+[Elixir Native Interoperability](https://spin.atomicobject.com/2015/03/16/elixir-native-interoperability-ports-vs-nifs/)
+
+[Compare NIFs and Ports](http://stackoverflow.com/questions/42035912/running-c-code-in-elixir-erlang-ports-or-nifs)
+
 [Elixir best Practices](https://engineering.appcues.com/2016/02/02/too-many-dicts.html) On the use of data structures
 
 <a name="tech_prog_go" />
