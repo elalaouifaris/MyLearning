@@ -80,6 +80,8 @@ quick access:
 
 [Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
 
+[Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
+
 <a name="ds_r" />
 ## R Programming:
 [Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
