@@ -27,6 +27,7 @@ This is a list of links to learning ressources that are relevant for my personna
 
 <a name="ds_cs" />
 ## Computer Science:
+
 [The wizard book](https://mitpress.mit.edu/sicp/) functional programming
 
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
