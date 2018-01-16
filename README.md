@@ -22,7 +22,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [تفسير القرآن](#deen_tafseer)
   - [فقه](#deen_fiqh)
 
-<a name="ds" />
+<a name="ds"></>
 # Data Science:
 
 <a name="ds_cs" />
