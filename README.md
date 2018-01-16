@@ -22,10 +22,10 @@ This is a list of links to learning ressources that are relevant for my personna
   - [تفسير القرآن](#deen_tafseer)
   - [فقه](#deen_fiqh)
 
-<a name="ds"></>
+<a name="ds">
 # Data Science:
 
-<a name="ds_cs" />
+<a name="ds_cs">
 ## Computer Science:
 
 [The wizard book](https://mitpress.mit.edu/sicp/) functional programming
@@ -36,7 +36,7 @@ This is a list of links to learning ressources that are relevant for my personna
 
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
 
-<a name="ds_ml" />
+<a name="ds_ml">
 ## Machine Learning & AI:
 [Stanford Ng Course](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
@@ -70,12 +70,12 @@ quick access:
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
-<a name="ds_ts" />
+<a name="ds_ts" >
 ## Time Series:
 [Forecasting Principles & Practice](https://www.otexts.org/book/fpp)
 
 
-<a name="ds_py" />
+<a name="ds_py" >
 ## Python:
 [Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
 
@@ -83,7 +83,7 @@ quick access:
 
 [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 
-<a name="ds_r" />
+<a name="ds_r" >
 ## R Programming:
 [Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 
@@ -99,11 +99,11 @@ quick access:
 
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
 
-<a name="ds_scale" />
+<a name="ds_scale" >
 ## Hadoop, Spark & co:
 [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
 
-<a name="ds_col" />
+<a name="ds_col" >
 ## Collections:
 [Awesome courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
@@ -111,10 +111,10 @@ quick access:
 & 
 [Course guides](https://metacademy.org/course_guides/)
 
-<a name="fonda" />
+<a name="fonda" >
 # Fondamentals in Maths & Physics:
 
-<a name="fonda_proba" />
+<a name="fonda_proba" >
 ## Probability Theory:
 [MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
 
@@ -126,7 +126,7 @@ quick access:
 ## Stochastic processes:
 [Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
 
-<a name="fonda_math_cs" />
+<a name="fonda_math_cs" >
 ## Maths for CS Foundations:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
@@ -147,7 +147,7 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
-<a name="fonda_phy" />
+<a name="fonda_phy" >
 ## Physics:
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
 
@@ -161,27 +161,27 @@ with
 
 [Héritier: Mécanique statistique et transition de phase](https://cel.archives-ouvertes.fr/cel-00092939/document)
 
-<a name="fonda_pluri" />
+<a name="fonda_pluri" >
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
 
-<a name="web" />
+<a name="web" >
 # Web Technologies:
 
-<a name="web_js" />
+<a name="web_js" >
 ## JS world:
 [FeeCodeCamp](https://www.freecodecamp.com/)
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-<a name="web_fe" />
+<a name="web_fe" >
 ## Design & Front-end:
 [CSS Layout](http://learnlayout.com/)
 
 React ressources: 
 ,
 
-<a name="web_be" />
+<a name="web_be" >
 ## Frameworks & Back-up
 
 [Phoenix Framework](http://www.phoenixframework.org/) 
@@ -190,13 +190,13 @@ based on
 
 [Etudes of Elixir](http://chimera.labs.oreilly.com/books/1234000001642/pr01.html)
 
-<a name="deen" />
+<a name="deen" >
 # دين و فكر
 
-<a name="deen_tafseer" />
+<a name="deen_tafseer" >
 ## تفسير القرآن
 [التحرير و التنوير](https://archive.org/details/tahrer_tanwer)
 
-<a name="deen_fiqh" />
+<a name="deen_fiqh" >
 ## فقه
 [كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
