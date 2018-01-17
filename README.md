@@ -141,6 +141,8 @@ quick access:
 ## Maths for CS Foundations:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
+[Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
+
 [Stanford Convex Optimization](http://stanford.edu/~boyd/cvxbook/) 
 quick access: 
 [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), 
