@@ -37,5 +37,3 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 [Hexo](https://hexo.io/) with md support & internationalization
 
 [Gatsby](https://github.com/gatsbyjs/gatsby) Combines md with react
-
-# Julia:
