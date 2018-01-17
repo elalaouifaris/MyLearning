@@ -154,7 +154,7 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 
-[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic
+[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 [Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
 
