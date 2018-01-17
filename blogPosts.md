@@ -20,10 +20,13 @@ Index:
   - [Quantum World](#sci_qw)
 
 <a name="tech" />
+
 # Tech Tools
 <a name="tech_js" />
+
 ## JS Frameworks:
 <a name="tech_js_react" />
+
 ### Trends:
 [Rising stars 2016](https://risingstars2016.js.org/)
 
@@ -31,27 +34,34 @@ Index:
 [React’s Five Fingers of Death](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.jpg1k9880)
 
 <a name="tech_os" />
+
 ## OS & productivity:
 <a name="tech_os_linux" />
+
 ### Linux:
 [Bash tutorial](https://www.blockloop.io/mastering-bash-and-terminal)
 
 <a name="tech_prog" />
+
 ## Programming:
 <a name="tech_prog_scheme" />
+
 ### Scheme:
 [Setting-up MIT Scheme on Mac](https://thesabbir.com/setting-up-mit-scheme-on-os-x-yosemite-with-homebrew/)
 
 <a name="tech_prog_haskell" />
+
 ### Haskell:
 [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 
 <a name="tech_prog_erlang" />
+
 ### Erlang:
 [What's all the fuss with Erlang](https://pragprog.com/articles/erlang/)
 
 
 <a name="tech_prog_elixir" />
+
 ### Elixir:
 Learn Elixir with a Rubyist:
 [Ep1](http://joaomdmoura.com/articles/learn-elixir-with-a-rubyist-episode-i)
@@ -71,14 +81,17 @@ Learn Elixir with a Rubyist:
 
 
 <a name="tech_prog_go" />
+
 ### Go:
 [Migrating Scala to Go](https://movio.co/blog/migrate-Scala-to-Go/)
 
 <a name="tech_prog_python" />
+
 ### Python:
 [Problems I have with Python](http://darkf.github.io/posts/problems-i-have-with-python.html)
 
 <a name="cs" />
+
 # CS Ideas:
 ## Machine Learning:
 [Deep Reinforcement Learning Review](https://arxiv.org/abs/1701.07274)
@@ -86,18 +99,22 @@ Learn Elixir with a Rubyist:
 [Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
 <a name="trends" />
+
 # Trends & Soft Skills:
 <a name="trends_data" />
+
 ## Data World:
 [The new gold rush?](http://mattturck.com/2017/01/17/the-new-gold-rush-wall-street-wants-your-data/) Use of start-up data in wallstreet
 
 <a name="trends_management" />
+
 ## Management:
 [Stop paying executives on performance](React’s Five Fingers of Death)
 
 [My Response to “How to *never* complete anything”](https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/)
 
 <a name="trends_regional" />
+
 ## Regional Trends:
 [Montreal is leading the AI world takeover](http://www.cloudraker.com/en/cloud-co/montreal-is-leading-the-ai-world-takeover)
 
@@ -107,8 +124,10 @@ Learn Elixir with a Rubyist:
 [How to self-publish a book in 2017](http://www.zhubert.com/blog/2017/02/25/how-to-self-publish-a-novel-in-2017/)
 
 <a name="sci" />
+
 # Science:
 <a name="sci_qw" />
+
 ## Quantum World:
 [The trouble with quantum mechanics](http://www.nybooks.com/articles/2017/01/19/trouble-with-quantum-mechanics/)
 
