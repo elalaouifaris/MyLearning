@@ -139,6 +139,9 @@ quick access:
 <a name="fonda_math_cs" >
 
 ## Maths for CS Foundations:
+
+[Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
 [Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
