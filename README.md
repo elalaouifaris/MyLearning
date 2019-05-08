@@ -75,8 +75,9 @@ quick access:
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 <a name="ds_ts" >
+  
 ## Time Series:
-[Forecasting Principles & Practice](https://www.otexts.org/book/fpp)
+[Forecasting Principles & Practice](https://otexts.com/fpp2/)
 
 
 <a name="ds_py" >
