@@ -213,7 +213,7 @@ React ressources:
 based on 
 [Elixir](http://elixir-lang.org/)
 
-[Etudes of Elixir](http://chimera.labs.oreilly.com/books/1234000001642/pr01.html)
+[Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
 <a name="deen" >
 
