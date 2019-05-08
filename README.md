@@ -70,9 +70,7 @@ quick access:
 quick access:
 [book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
-[Reinforcement Learning Sutton & Barto](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html),
-quick access:
-[book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+[Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
