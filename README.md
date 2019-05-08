@@ -79,6 +79,8 @@ quick access:
 ## Time Series:
 [Forecasting Principles & Practice](https://otexts.com/fpp2/)
 
+[IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
+
 
 <a name="ds_py" >
 
