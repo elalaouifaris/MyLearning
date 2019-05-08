@@ -33,6 +33,8 @@ This is a list of links to learning ressources that are relevant for my personna
 
 [The wizard book](https://mitpress.mit.edu/sicp/) functional programming
 
+[Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
+
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
