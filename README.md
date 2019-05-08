@@ -31,7 +31,7 @@ This is a list of links to learning ressources that are relevant for my personna
 
 ## Computer Science:
 
-[The wizard book](https://mitpress.mit.edu/sicp/) functional programming
+[The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
 [Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
 
