@@ -223,6 +223,7 @@ based on
 
 ## تفسير القرآن
 [التحرير و التنوير](https://archive.org/details/tahrer_tanwer)
+[فاضل السامرائي](http://albayanalqurany.com/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D9%81%D8%A7%D8%B6%D9%84-%D8%A7%D9%84%D8%B3%D8%A7%D9%85%D8%B1%D8%A7%D8%A6%D9%8A/)
 
 <a name="deen_fiqh" >
 
