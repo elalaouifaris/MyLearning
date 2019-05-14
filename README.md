@@ -7,7 +7,6 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Time Series](#ds_ts)
   - [Python](#ds_py)
   - [R Programming](#ds_r)
-  - [Hadoop, Spark & co](#ds_scale)
   - [Collections](#ds_col)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Probability Theory](#fonda_proba)
@@ -109,11 +108,6 @@ quick access:
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
 
 <a name="ds_scale" >
-
-## Hadoop, Spark & co:
-[Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
-
-<a name="ds_col" >
 
 ## Collections:
 [Awesome courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
