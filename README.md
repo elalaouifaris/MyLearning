@@ -61,6 +61,8 @@ Nando De Freitas:
 
 [fast.ai deep learning course](http://course.fast.ai/index.html) by Jeremy Howard
 
+[Hugo Larochelle - Cours RN](http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html)
+
 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
 quick access:
 [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
