@@ -71,6 +71,8 @@ quick access:
 
 [Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
+[Interpretable ML](https://christophm.github.io/interpretable-ml-book/index.html)
+
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
