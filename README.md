@@ -73,6 +73,8 @@ quick access:
 
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
+[Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
 <a name="ds_ts" >
   
 ## Time Series:
