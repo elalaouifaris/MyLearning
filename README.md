@@ -4,6 +4,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - [Data Science](#ds)
   - [Computer Science](#ds_cs)
   - [Machine Learning & AI](#ds_ml)
+  - [Statistics](#ds_stats)
   - [Time Series](#ds_ts)
   - [Python](#ds_py)
   - [R Programming](#ds_r)
@@ -76,6 +77,11 @@ quick access:
 [Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+<a name="ds_stats" >
+  
+## Statistics:
+[Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 
 <a name="ds_ts" >
   
