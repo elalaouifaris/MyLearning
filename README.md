@@ -80,6 +80,8 @@ quick access:
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
 
+[Stumpy Package](https://github.com/TDAmeritrade/stumpy)
+
 
 <a name="ds_py" >
 
