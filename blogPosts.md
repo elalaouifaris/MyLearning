@@ -98,6 +98,8 @@ Learn Elixir with a Rubyist:
 
 [Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
+[Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+
 <a name="trends" />
 
 # Trends & Soft Skills:
