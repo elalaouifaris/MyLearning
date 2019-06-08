@@ -88,7 +88,8 @@ quick access:
 <a name="ds_ts" >
   
 ## Time Series:
-[Forecasting Principles & Practice](https://otexts.com/fpp2/)
+[Forecasting Principles & Practice](https://otexts.com/fpp2/) 
+Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on state space methods
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
 
