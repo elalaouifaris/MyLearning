@@ -92,6 +92,8 @@ quick access:
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
 
+[IIT System Identification](https://nptel.ac.in/courses/103106149/)
+
 [Stumpy Package](https://github.com/TDAmeritrade/stumpy)
 
 
