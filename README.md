@@ -3,6 +3,7 @@
 This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md) and a list of [programming librairies](Librairies.md) to explore):
 - [Data Science](#ds)
   - [Computer Science](#ds_cs)
+  - [Test Driven Development](#ds_tdd)
   - [Machine Learning & AI](#ds_ml)
   - [Statistics](#ds_stats)
   - [Time Series](#ds_ts)
@@ -40,6 +41,11 @@ This is a list of links to learning ressources that are relevant for my personna
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
+
+<a name="ds_tdd">
+
+## Test Driven Dev:
+[Obey the testing goat](https://www.obeythetestinggoat.com/pages/book.html)
 
 <a name="ds_ml">
 
