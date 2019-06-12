@@ -115,6 +115,8 @@ Learn Elixir with a Rubyist:
 
 [My Response to “How to *never* complete anything”](https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/)
 
+[No kings and rough consensus](https://doist.com/blog/decision-making-flat-organization/)
+
 <a name="trends_regional" />
 
 ## Regional Trends:
