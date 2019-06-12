@@ -12,8 +12,6 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 
 # Python:
 ## Deep learning:
-[Kur](http://kur.deepgram.com/) for high level deep learning & API
-
 [PyTorch](http://pytorch.org/)
 
 ## ML pipeline:
