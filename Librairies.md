@@ -16,6 +16,9 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 
 [PyTorch](http://pytorch.org/)
 
+## ML pipeline:
+[Kedro](https://github.com/quantumblacklabs/kedro)
+
 # JS:
 ## HTML 5 Plugins:
 [Video JS](http://videojs.com/)
