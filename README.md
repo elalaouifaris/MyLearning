@@ -139,6 +139,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Distributed systems in Go and Rust](https://github.com/pingcap/talent-plan)
 
+[From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
 <a name="fonda" >
 
 # Fondamentals in Maths & Physics:
