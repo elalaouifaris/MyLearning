@@ -137,6 +137,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 & 
 [Course guides](https://metacademy.org/course_guides/)
 
+[Distributed systems in Go and Rust](https://github.com/pingcap/talent-plan)
+
 <a name="fonda" >
 
 # Fondamentals in Maths & Physics:
