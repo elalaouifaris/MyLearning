@@ -6,7 +6,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Statistics](#ds_stats)
   - [Time Series](#ds_ts)
 - [Computer Science](#cs)
-  - [Computer Science](#cs_progparadigm)
+  - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
   - [Python](#cs_py)
   - [R Programming](#cs_r)
@@ -89,7 +89,7 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 <a name="cs_progparadigm">
 
-## Computer Science:
+## Programming Paradigms:
 
 [The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
