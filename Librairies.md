@@ -19,6 +19,9 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 ## ML pipeline:
 [Kedro](https://github.com/quantumblacklabs/kedro)
 
+# Jupyter:
+[Voilà interactive notebooks](https://github.com/QuantStack/voila)
+
 # JS:
 ## HTML 5 Plugins:
 [Video JS](http://videojs.com/)
