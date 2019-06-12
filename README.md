@@ -2,50 +2,32 @@
 
 This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md) and a list of [programming librairies](Librairies.md) to explore):
 - [Data Science](#ds)
-  - [Computer Science](#ds_cs)
-  - [Test Driven Development](#ds_tdd)
   - [Machine Learning & AI](#ds_ml)
   - [Statistics](#ds_stats)
   - [Time Series](#ds_ts)
-  - [Python](#ds_py)
-  - [R Programming](#ds_r)
-  - [Collections](#ds_col)
+- [Computer Science](#cs)
+  - [Computer Science](#cs_progparadigm)
+  - [Test Driven Development](#cs_tdd)
+  - [Python](#cs_py)
+  - [R Programming](#cs_r)
+  - [Collections](#cs_col)
+- [Web Technologies](#web)
+  - [JS world](#web_js)
+  - [Design & Front-end](#web_fe)
+  - [Frameworks & Back-up](#web_be)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Probability Theory](#fonda_proba)
   - [Maths for CS Foundations](#fonda_math_cs)
   - [Physics](#fonda_phy)
   - [Pluri-discipline](#fonda_pluri)
-- [Web Technologies](#web)
-  - [JS world](#web_js)
-  - [Design & Front-end](#web_fe)
-  - [Frameworks & Back-up](#web_be)
 - [دين و فكر](#deen)
   - [تفسير القرآن](#deen_tafseer)
   - [فقه](#deen_fiqh)
-
+  
+  
 <a name="ds">
 
 # Data Science:
-
-<a name="ds_cs">
-
-
-## Computer Science:
-
-[The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-
-[Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
-
-[Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
-
-[Zen of Python](https://www.python.org/dev/peps/pep-0020/)
-
-[Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
-
-<a name="ds_tdd">
-
-## Test Driven Dev:
-[Obey the testing goat](https://www.obeythetestinggoat.com/pages/book.html)
 
 <a name="ds_ml">
 
@@ -101,8 +83,30 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Stumpy Package](https://github.com/TDAmeritrade/stumpy)
 
+<a name="cs">
+  
+# Computer Science:
 
-<a name="ds_py" >
+<a name="cs_progparadigm">
+
+## Computer Science:
+
+[The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+[Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
+
+[Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
+
+[Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+[Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
+
+<a name="cs_tdd">
+
+## Test Driven Dev:
+[Obey the testing goat](https://www.obeythetestinggoat.com/pages/book.html)
+
+<a name="cs_py" >
 
 ## Python:
 [Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
@@ -111,7 +115,7 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 
-<a name="ds_r" >
+<a name="cs_r" >
 
 ## R Programming:
 [Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
@@ -128,7 +132,7 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
 
-<a name="ds_scale" >
+<a name="cs_scale" >
 
 ## Collections:
 [Awesome courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
@@ -140,6 +144,32 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 [Distributed systems in Go and Rust](https://github.com/pingcap/talent-plan)
 
 [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
+<a name="web" >
+
+# Web Technologies:
+
+<a name="web_js" >
+
+## JS world:
+[FeeCodeCamp](https://www.freecodecamp.com/)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+<a name="web_fe" >
+
+## Design & Front-end:
+[CSS Layout](http://learnlayout.com/)
+
+<a name="web_be" >
+
+## Frameworks & Back-up
+
+[Phoenix Framework](http://www.phoenixframework.org/) 
+based on 
+[Elixir](http://elixir-lang.org/)
+
+[Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
 <a name="fonda" >
 
@@ -205,34 +235,7 @@ with
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
 
-<a name="web" >
 
-# Web Technologies:
-
-<a name="web_js" >
-
-## JS world:
-[FeeCodeCamp](https://www.freecodecamp.com/)
-
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
-<a name="web_fe" >
-
-## Design & Front-end:
-[CSS Layout](http://learnlayout.com/)
-
-React ressources: 
-,
-
-<a name="web_be" >
-
-## Frameworks & Back-up
-
-[Phoenix Framework](http://www.phoenixframework.org/) 
-based on 
-[Elixir](http://elixir-lang.org/)
-
-[Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
 <a name="deen" >
 
