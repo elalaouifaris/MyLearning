@@ -15,6 +15,8 @@ This is a list of links to learning ressources that are relevant for my personna
   - [JS world](#web_js)
   - [Design & Front-end](#web_fe)
   - [Frameworks & Back-up](#web_be)
+- [Dev Tools](#tools)
+  - [VS Code](#tools_vscode)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Probability Theory](#fonda_proba)
   - [Maths for CS Foundations](#fonda_math_cs)
@@ -170,6 +172,15 @@ based on
 [Elixir](http://elixir-lang.org/)
 
 [Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
+
+<a name="tools">
+  
+# Dev Tools:
+
+<a name="tools_vscode">
+  
+## VS Code:
+[Using pure python notebook docs in VS Code](https://devblogs.microsoft.com/python/data-science-with-python-in-visual-studio-code/)
 
 <a name="fonda" >
 
