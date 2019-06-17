@@ -161,7 +161,10 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 <a name="web_fe" >
 
 ## Design & Front-end:
+[Relearn CSS Layout](https://every-layout.dev/)
+
 [CSS Layout](http://learnlayout.com/)
+
 
 <a name="web_be" >
 
