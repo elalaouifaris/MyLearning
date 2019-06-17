@@ -14,7 +14,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - [Web Technologies](#web)
   - [JS world](#web_js)
   - [Design & Front-end](#web_fe)
-  - [Frameworks & Back-up](#web_be)
+  - [Frameworks & Back-End](#web_be)
 - [Dev Tools](#tools)
   - [VS Code](#tools_vscode)
 - [Fondamentals in Maths & Physics](#fonda)
@@ -169,6 +169,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 <a name="web_be" >
 
 ## Frameworks & Back-up
+
+[Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
 
 [Phoenix Framework](http://www.phoenixframework.org/) 
 based on 
