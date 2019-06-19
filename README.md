@@ -2,8 +2,9 @@
 
 This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md) and a list of [programming librairies](Librairies.md) to explore):
 - [Data Science](#ds)
-  - [Machine Learning & AI](#ds_ml)
   - [Statistics](#ds_stats)
+  - [Machine Learning](#ds_ml)
+  - [Reinforcement Learning](#ds_rl)
   - [Time Series](#ds_ts)
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
@@ -28,38 +29,8 @@ This is a list of links to learning ressources that are relevant for my personna
   
   
 <a name="ds">
-
+  
 # Data Science:
-
-<a name="ds_ml">
-
-## Machine Learning & AI:
-[Stanford Ng Course](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-
-[Caltech Learning fron data](http://work.caltech.edu/telecourse.html)
-
-[Berkeley AI CS188](https://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html) 
-version: 
-[2014](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/)
-or
-[youtube 2015](https://www.youtube.com/playlist?list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
-
-Nando De Freitas: 
-[ML Undergrad](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf), 
-[ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
-[Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
-
-[fast.ai deep learning course](http://course.fast.ai/index.html) by Jeremy Howard
-
-[Hugo Larochelle - Cours RN](http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html)
-
-[Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-
-[Interpretable ML](https://christophm.github.io/interpretable-ml-book/index.html)
-
-[Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-
-[Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
 <a name="ds_stats" >
   
@@ -77,6 +48,39 @@ quick access:
 [Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
 
 [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+
+<a name="ds_ml">
+  
+## Machine Learning:
+[Stanford Ng Course](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+
+[Caltech Learning fron data](http://work.caltech.edu/telecourse.html)
+
+Nando De Freitas: 
+[ML Undergrad](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf), 
+[ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
+[Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
+
+[fast.ai deep learning course](http://course.fast.ai/index.html) by Jeremy Howard
+
+[Hugo Larochelle - Cours RN](http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html)
+
+[Interpretable ML](https://christophm.github.io/interpretable-ml-book/index.html)
+
+[Deep Learning Papers Road Map](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+[Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+<a name="ds_rl">
+
+## Reinforcement Learning:
+[Berkeley AI CS188](https://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html) 
+version: 
+[2014](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/)
+or
+[youtube 2015](https://www.youtube.com/playlist?list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
+
+[Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 <a name="ds_ts" >
   
