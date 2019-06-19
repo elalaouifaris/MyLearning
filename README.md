@@ -53,15 +53,6 @@ Nando De Freitas:
 
 [Hugo Larochelle - Cours RN](http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html)
 
-[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
-quick access:
-[book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
-[Mooc](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-
-[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/), 
-quick access:
-[book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
-
 [Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 [Interpretable ML](https://christophm.github.io/interpretable-ml-book/index.html)
@@ -73,6 +64,16 @@ quick access:
 <a name="ds_stats" >
   
 ## Statistics:
+
+[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
+quick access:
+[book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
+[Mooc](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+
+[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/), 
+quick access:
+[book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+
 [Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
 
 [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
