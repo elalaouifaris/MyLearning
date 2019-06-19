@@ -19,8 +19,9 @@ This is a list of links to learning ressources that are relevant for my personna
 - [Dev Tools](#tools)
   - [VS Code](#tools_vscode)
 - [Fondamentals in Maths & Physics](#fonda)
-  - [Probability Theory](#fonda_proba)
-  - [Maths for CS Foundations](#fonda_math_cs)
+  - [Math Foundations for CS](#fonda_math_cs)
+  - [Maths for Optimization](#fonda_math_optim)
+  - [ Probability Theory & Stochastic processes](#fonda_proba)
   - [Physics](#fonda_phy)
   - [Pluri-discipline](#fonda_pluri)
 - [دين و فكر](#deen)
@@ -197,27 +198,19 @@ based on
 <a name="fonda" >
 
 # Fondamentals in Maths & Physics:
-
-<a name="fonda_proba" >
-
-## Probability Theory:
-[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
-
-[Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
-
-[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
-[knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
-
-## Stochastic processes:
-[Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
-
 <a name="fonda_math_cs" >
-
-## Maths for CS Foundations:
-
-[Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
-
+  
+## Math Foundations for CS:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+
+[Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
+
+[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+<a name="fonda_math_optim" >
+
+## Maths for Optimization
+[Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 [Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
 
@@ -230,13 +223,21 @@ quick access:
 [Dynamic Programming & Optimal Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/), 
 Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
 
-[Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
-
-[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
 [Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
 
 [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
+<a name="fonda_proba" >
+
+## Probability Theory & Stochastic processes:
+[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
+
+[Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
+
+[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
+[knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
+
+[Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
 
 <a name="fonda_phy" >
 
