@@ -73,6 +73,8 @@ quick access:
 <a name="ds_stats" >
   
 ## Statistics:
+[Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
+
 [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 
 <a name="ds_ts" >
