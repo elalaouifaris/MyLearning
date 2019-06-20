@@ -46,6 +46,8 @@ quick access:
 quick access:
 [book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
+[Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+
 [Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
 
 [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
