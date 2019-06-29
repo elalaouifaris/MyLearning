@@ -17,6 +17,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Design & Front-end](#web_fe)
   - [Frameworks & Back-End](#web_be)
 - [Dev Tools](#tools)
+  - [Unix](#tools_unix)
   - [VS Code](#tools_vscode)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Math Foundations for CS](#fonda_math_cs)
@@ -191,6 +192,11 @@ based on
 <a name="tools">
   
 # Dev Tools:
+
+<a name="tools_unix">
+  
+## Unix:
+[The Grymoire](http://www.grymoire.com/Unix/)
 
 <a name="tools_vscode">
   
