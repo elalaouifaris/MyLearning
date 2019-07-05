@@ -12,6 +12,8 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Python](#cs_py)
   - [R Programming](#cs_r)
   - [Collections](#cs_col)
+- [Operations Research](#or)
+   - [Constraints Programming](#or_cp)
 - [Web Technologies](#web)
   - [JS world](#web_js)
   - [Design & Front-end](#web_fe)
@@ -157,6 +159,15 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 [Distributed systems in Go and Rust](https://github.com/pingcap/talent-plan)
 
 [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
+<a name="or" >
+  
+# Operations Research:
+
+<a name="or_cp" >
+  
+## Constraint Programming:
+[Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
 
 <a name="web" >
 
