@@ -167,6 +167,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 <a name="or_cp" >
   
 ## Constraint Programming:
+[Minizinc Tutorial](https://www.minizinc.org/downloads/doc-latest/minizinc-tute.pdf)
+
 [Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
 
 <a name="web" >
