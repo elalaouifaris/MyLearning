@@ -1,6 +1,6 @@
 # MyLearning
 
-This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md) and a list of [programming librairies](Librairies.md) to explore):
+This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md), [programming librairies](Librairies.md) to explore and the [rabbit hole](rabbit_hole.md) to explore deep in computing ideas):
 - [Data Science](#ds)
   - [Statistics](#ds_stats)
   - [Machine Learning](#ds_ml)
