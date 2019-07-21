@@ -130,6 +130,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 
+[C-Python Internals](http://www.pgbovine.net/cpython-internals.htm)
+
 <a name="cs_r" >
 
 ## R Programming:
