@@ -162,6 +162,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 
+[Advanced Programming Languages](http://matt.might.net/articles/best-programming-languages/)
+
 <a name="or" >
   
 # Operations Research:
