@@ -80,6 +80,8 @@ Nando De Freitas:
 <a name="ds_rl">
 
 ## Reinforcement Learning:
+[Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
+
 [Berkeley AI CS188](https://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html) 
 version: 
 [2014](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/)
