@@ -114,6 +114,8 @@ IIT Madras Courses:
 [Basics old format](https://nptel.ac.in/courses/112106134/)
 and [Advanced](https://nptel.ac.in/courses/112106131/)
 
+[Linear Programming Course by Wenshepsu](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+
 <a name="or_cp" >
   
 ## Constraint Programming:
