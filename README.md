@@ -13,7 +13,8 @@ This is a list of links to learning ressources that are relevant for my personna
   - [R Programming](#cs_r)
   - [Collections](#cs_col)
 - [Operations Research](#or)
-   - [Constraints Programming](#or_cp)
+  - [Mathematical Programming](#or_mp)
+  - [Constraints Programming](#or_cp)
 - [Web Technologies](#web)
   - [JS world](#web_js)
   - [Design & Front-end](#web_fe)
@@ -170,6 +171,14 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 <a name="or" >
   
 # Operations Research:
+
+<a name="or_mp" >
+
+## Mathematical Programming:
+IIT Madras Courses: 
+[Basics](https://nptel.ac.in/courses/110106062/),
+[Basics old format](https://nptel.ac.in/courses/112106134/)
+and [Advanced](https://nptel.ac.in/courses/112106131/)
 
 <a name="or_cp" >
   
