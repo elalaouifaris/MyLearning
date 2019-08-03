@@ -6,15 +6,15 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Machine Learning](#ds_ml)
   - [Reinforcement Learning](#ds_rl)
   - [Time Series](#ds_ts)
+- [Operations Research](#or)
+  - [Mathematical Programming](#or_mp)
+  - [Constraints Programming](#or_cp)
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
   - [Python](#cs_py)
   - [R Programming](#cs_r)
   - [Collections](#cs_col)
-- [Operations Research](#or)
-  - [Mathematical Programming](#or_mp)
-  - [Constraints Programming](#or_cp)
 - [Web Technologies](#web)
   - [JS world](#web_js)
   - [Design & Front-end](#web_fe)
@@ -102,6 +102,26 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [Stumpy Package](https://github.com/TDAmeritrade/stumpy)
 
+<a name="or" >
+  
+# Operations Research:
+
+<a name="or_mp" >
+
+## Mathematical Programming:
+IIT Madras Courses: 
+[Basics](https://nptel.ac.in/courses/110106062/),
+[Basics old format](https://nptel.ac.in/courses/112106134/)
+and [Advanced](https://nptel.ac.in/courses/112106131/)
+
+<a name="or_cp" >
+  
+## Constraint Programming:
+[Minizinc Tutorial](https://www.minizinc.org/downloads/doc-latest/minizinc-tute.pdf)
+
+[Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
+
+
 <a name="cs">
   
 # Computer Science:
@@ -167,25 +187,6 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 
 [Advanced Programming Languages](http://matt.might.net/articles/best-programming-languages/)
-
-<a name="or" >
-  
-# Operations Research:
-
-<a name="or_mp" >
-
-## Mathematical Programming:
-IIT Madras Courses: 
-[Basics](https://nptel.ac.in/courses/110106062/),
-[Basics old format](https://nptel.ac.in/courses/112106134/)
-and [Advanced](https://nptel.ac.in/courses/112106131/)
-
-<a name="or_cp" >
-  
-## Constraint Programming:
-[Minizinc Tutorial](https://www.minizinc.org/downloads/doc-latest/minizinc-tute.pdf)
-
-[Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
 
 <a name="web" >
 
