@@ -30,6 +30,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - [دين و فكر](#deen)
   - [تفسير القرآن](#deen_tafseer)
   - [فقه](#deen_fiqh)
+- [Classics Reading](#classic_reads)
   
   
 <a name="ds">
@@ -302,3 +303,8 @@ with
 
 ## فقه
 [كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
+
+<a name="classic_reads" >
+
+# Classics Reading:
+[Standard Ebooks](https://standardebooks.org/)
