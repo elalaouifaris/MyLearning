@@ -9,6 +9,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - [Operations Research](#or)
   - [Mathematical Programming](#or_mp)
   - [Constraints Programming](#or_cp)
+  - [Maths for Optimization](#or_math_optim)
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
@@ -24,7 +25,6 @@ This is a list of links to learning ressources that are relevant for my personna
   - [VS Code](#tools_vscode)
 - [Fondamentals in Maths & Physics](#fonda)
   - [Math Foundations for CS](#fonda_math_cs)
-  - [Maths for Optimization](#fonda_math_optim)
   - [ Probability Theory & Stochastic processes](#fonda_proba)
   - [Physics](#fonda_phy)
   - [Pluri-discipline](#fonda_pluri)
@@ -124,6 +124,26 @@ and [Advanced](https://nptel.ac.in/courses/112106131/)
 
 [Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
 
+
+<a name="or_math_optim" >
+
+## Maths for Optimization
+[Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
+[Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
+
+[Stanford Convex Optimization](http://stanford.edu/~boyd/cvxbook/) 
+quick access: 
+[Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), 
+[Mooc](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), 
+[Youtube](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
+
+[Dynamic Programming & Optimal Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/), 
+Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
+
+[Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
+
+[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 <a name="cs">
   
@@ -247,26 +267,6 @@ based on
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
-<a name="fonda_math_optim" >
-
-## Maths for Optimization
-[Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
-
-[Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
-
-[Stanford Convex Optimization](http://stanford.edu/~boyd/cvxbook/) 
-quick access: 
-[Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), 
-[Mooc](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), 
-[Youtube](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
-
-[Dynamic Programming & Optimal Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/), 
-Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
-
-[Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
-
-[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 <a name="fonda_proba" >
 
