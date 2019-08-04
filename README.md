@@ -100,8 +100,6 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
 
-[Stumpy Package](https://github.com/TDAmeritrade/stumpy)
-
 <a name="or" >
   
 # Operations Research:
