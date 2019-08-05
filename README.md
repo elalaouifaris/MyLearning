@@ -240,6 +240,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 based on 
 [Elixir](http://elixir-lang.org/)
 
+[Mastering Phoenix Framework](https://shankardevy.com/phoenix-inside-out-mpf/)
+
 [Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
 <a name="tools">
