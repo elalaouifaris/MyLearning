@@ -57,6 +57,8 @@ quick access:
 
 [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 
+[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
 <a name="ds_ml">
   
 ## Machine Learning:
@@ -142,8 +144,6 @@ quick access:
 Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
 
 [Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
-
-[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 <a name="cs">
   
