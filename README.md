@@ -6,6 +6,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Machine Learning](#ds_ml)
   - [Reinforcement Learning](#ds_rl)
   - [Time Series](#ds_ts)
+  - [Natural Language Processing](#ds_nlp)
 - [Operations Research](#or)
   - [Mathematical Programming](#or_mp)
   - [Constraints Programming](#or_cp)
@@ -101,6 +102,11 @@ or
 Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on state space methods
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
+
+<a name="ds_nlp" >
+  
+## Natural Language Processing:
+[Stanford Course on NLP with Deep Learning](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
 
 <a name="or" >
   
