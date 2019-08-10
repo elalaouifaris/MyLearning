@@ -124,6 +124,7 @@ and [Advanced](https://nptel.ac.in/courses/112106131/)
  [Numerical Computation](https://www.youtube.com/playlist?list=PLbxFfU5GKZz29nXsWchAN1c3WsgiMiSXd) and
  [Numerical Computation tutorial vids](https://www.youtube.com/playlist?list=PLbxFfU5GKZz3eiOEkcl2By5pYO2CJxZK7)
  
+ [EDX MIT Optimization Methods Business Analytics](https://www.edx.org/course/optimization-methods-business-analytics-mitx-15-053x)
 
 <a name="or_cp" >
   
