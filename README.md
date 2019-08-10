@@ -272,6 +272,8 @@ based on
 ## Math Foundations for CS:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
+[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
+
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
