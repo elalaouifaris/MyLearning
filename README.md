@@ -162,9 +162,11 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists)
 
-[Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
+EPFL:
 
-[Energy Conversion and Renewables Energy](https://www.youtube.com/playlist?list=PL30deB-5iwLKxkJyTvF4Mks9NG1wbATTz)
+- [Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
+- [Energy Conversion and Renewables Energy](https://www.youtube.com/playlist?list=PL30deB-5iwLKxkJyTvF4Mks9NG1wbATTz)
+- [Advanced Energetic](https://www.youtube.com/playlist?list=PL30deB-5iwLLe6atnSbn1hiPr7Fu1p_e1)
 
 <a name="cs">
   
