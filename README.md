@@ -163,6 +163,7 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 [DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists):
 - [DTU CEE Summer School 2019](https://www.youtube.com/playlist?list=PLKLR7D59yU0dPnB5EEmDd-2O2Rpjx9Uu6)
 - [Advanced Game-Theoretic Models](https://www.youtube.com/playlist?list=PLKLR7D59yU0fuZTH5wjgov31D3DXta_l-)
+- [DTU CEE Summer School 2018](https://www.youtube.com/playlist?list=PLKLR7D59yU0fgC_Ac6v0I0yGO8FcE98GH)
 
 EPFL:
 
