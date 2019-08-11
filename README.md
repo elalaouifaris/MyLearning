@@ -276,6 +276,7 @@ based on
 [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
 
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
+and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
