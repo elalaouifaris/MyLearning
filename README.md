@@ -43,6 +43,8 @@ This is a list of links to learning ressources that are relevant for my personna
   
 ## Statistics:
 
+[The Analytical Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)
+
 [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
 quick access:
 [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
