@@ -11,6 +11,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Mathematical Programming](#or_mp)
   - [Constraints Programming](#or_cp)
   - [Maths for Optimization](#or_math_optim)
+- [Energy](#enr)
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
@@ -153,6 +154,11 @@ quick access:
 Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4)
 
 [Radomized Linear Algebra](https://arxiv.org/abs/1608.04481v1) Lecture notes
+
+<a name="enr">
+  
+# Energy:
+[Renewables in Electricity Markets](https://www.youtube.com/playlist?list=PLwKjKt8EU3S2bKPVcQE-guuJ3KLEm6_C-)
 
 <a name="cs">
   
