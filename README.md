@@ -160,6 +160,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 # Energy:
 [Renewables in Electricity Markets](https://www.youtube.com/playlist?list=PLwKjKt8EU3S2bKPVcQE-guuJ3KLEm6_C-)
 
+[DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists)
+
 <a name="cs">
   
 # Computer Science:
