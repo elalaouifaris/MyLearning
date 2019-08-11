@@ -162,6 +162,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists)
 
+[Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
+
 <a name="cs">
   
 # Computer Science:
