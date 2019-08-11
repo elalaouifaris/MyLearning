@@ -164,6 +164,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 [Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
 
+[Energy Conversion and Renewables Energy](https://www.youtube.com/playlist?list=PL30deB-5iwLKxkJyTvF4Mks9NG1wbATTz)
+
 <a name="cs">
   
 # Computer Science:
