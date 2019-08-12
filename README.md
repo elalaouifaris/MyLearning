@@ -290,10 +290,14 @@ based on
 <a name="fonda_math_cs" >
   
 ## Math Foundations for CS:
+### Starting:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
 [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
 
+[Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
+
+### Advanced:
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
