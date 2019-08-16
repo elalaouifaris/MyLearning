@@ -295,6 +295,8 @@ based on
 
 [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
 
+[MIT Matrix Methods Course - G. Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+
 [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
 
 ### Advanced:
