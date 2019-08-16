@@ -1,6 +1,11 @@
 # MyLearning
 
 This is a list of links to learning ressources that are relevant for my personnal development program. (With an [archive of interesting blogs](blogPosts.md), [programming librairies](Librairies.md) to explore and the [rabbit hole](rabbit_hole.md) to explore deep in computing ideas):
+- [Foundations in Maths & Physics](#fonda)
+  - [Math Foundations for CS](#fonda_math_cs)
+  - [Probability Theory & Stochastic processes](#fonda_proba)
+  - [Physics](#fonda_phy)
+  - [Pluri-discipline](#fonda_pluri)
 - [Data Science](#ds)
   - [Statistics](#ds_stats)
   - [Machine Learning](#ds_ml)
@@ -11,12 +16,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Mathematical Programming](#or_mp)
   - [Constraints Programming](#or_cp)
   - [Maths for Optimization](#or_math_optim)
-- [Energy Decision Science](#enr)
-- [Foundations in Maths & Physics](#fonda)
-  - [Math Foundations for CS](#fonda_math_cs)
-  - [Probability Theory & Stochastic processes](#fonda_proba)
-  - [Physics](#fonda_phy)
-  - [Pluri-discipline](#fonda_pluri)
+  - [Energy Decision Science](#enr)
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
@@ -35,6 +35,61 @@ This is a list of links to learning ressources that are relevant for my personna
   - [فقه](#deen_fiqh)
 - [Classics Reading](#classic_reads)
   
+<a name="fonda" >
+
+# Foundations in Maths & Physics:
+<a name="fonda_math_cs" >
+  
+## Math Foundations for CS:
+### Starting:
+[Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+
+[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
+
+[MIT Linear Algebra - G. Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
+ and [MIT Matrix Methods Course - G. Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+
+[Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
+
+### Advanced:
+[Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
+and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+
+[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+<a name="fonda_proba" >
+
+## Probability Theory & Stochastic processes:
+[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
+
+[Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
+
+[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
+[knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
+
+[Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
+
+<a name="fonda_phy" >
+
+## Physics:
+[Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
+
+[Susskind courses](http://theoreticalminimum.com/courses) 
+with 
+[lecture notes](http://www.lecture-notes.co.uk/susskind/)
+
+[Landau & Lifschitz](https://www.reddit.com/r/Physics/comments/1dmxq7/our_beloved_landaulifshitz_books_are_available/)
+
+[Notes on Thermodynamics & statistical mechanics](http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf)
+
+[Héritier: Mécanique statistique et transition de phase](https://cel.archives-ouvertes.fr/cel-00092939/document)
+
+<a name="fonda_pluri" >
+
+## Pluri-discipline:
+[Complexity explorer](https://www.complexityexplorer.org/)
+
+
   
 <a name="ds">
   
@@ -157,7 +212,7 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 
 <a name="enr">
   
-# Energy:
+## Energy Decision Science:
 [Renewables in Electricity Markets](https://www.youtube.com/playlist?list=PLwKjKt8EU3S2bKPVcQE-guuJ3KLEm6_C-)
 
 [DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists):
@@ -170,62 +225,6 @@ EPFL:
 - [Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
 - [Energy Conversion and Renewables Energy](https://www.youtube.com/playlist?list=PL30deB-5iwLKxkJyTvF4Mks9NG1wbATTz)
 - [Advanced Energetic](https://www.youtube.com/playlist?list=PL30deB-5iwLLe6atnSbn1hiPr7Fu1p_e1)
-
-<a name="fonda" >
-
-# Foundations in Maths & Physics:
-<a name="fonda_math_cs" >
-  
-## Math Foundations for CS:
-### Starting:
-[Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-
-[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
-
-[MIT Linear Algebra - G. Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
- and [MIT Matrix Methods Course - G. Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
-
-[Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
-
-### Advanced:
-[Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
-and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
-
-[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
-<a name="fonda_proba" >
-
-## Probability Theory & Stochastic processes:
-[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
-
-[Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
-
-[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
-[knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
-
-[Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
-
-<a name="fonda_phy" >
-
-## Physics:
-[Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
-
-[Susskind courses](http://theoreticalminimum.com/courses) 
-with 
-[lecture notes](http://www.lecture-notes.co.uk/susskind/)
-
-[Landau & Lifschitz](https://www.reddit.com/r/Physics/comments/1dmxq7/our_beloved_landaulifshitz_books_are_available/)
-
-[Notes on Thermodynamics & statistical mechanics](http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf)
-
-[Héritier: Mécanique statistique et transition de phase](https://cel.archives-ouvertes.fr/cel-00092939/document)
-
-<a name="fonda_pluri" >
-
-## Pluri-discipline:
-[Complexity explorer](https://www.complexityexplorer.org/)
-
-
 
 <a name="cs">
   
