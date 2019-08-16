@@ -11,7 +11,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Mathematical Programming](#or_mp)
   - [Constraints Programming](#or_cp)
   - [Maths for Optimization](#or_math_optim)
-- [Energy](#enr)
+- [Energy Decision Science](#enr)
 - [Foundations in Maths & Physics](#fonda)
   - [Math Foundations for CS](#fonda_math_cs)
   - [Probability Theory & Stochastic processes](#fonda_proba)
