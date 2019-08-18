@@ -60,7 +60,7 @@ and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlis
 <a name="fonda_proba" >
 
 ## Probability Theory & Stochastic processes:
-[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by J. Tsitsiklis
+[MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) by J. Tsitsiklis
 
 [Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
 
