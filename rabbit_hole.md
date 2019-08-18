@@ -26,3 +26,4 @@ The journey starts with this [Joe Amstrong tals](https://www.youtube.com/watch?v
   A talk by Sussman on ways to explore new ways of computing [Video](https://www.youtube.com/watch?v=Rk76BurH384).
   Touches on automatic differentiation.
   
+  Lisp Stuff: [The most beautiful program ever written](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
