@@ -23,3 +23,6 @@ The journey starts with this [Joe Amstrong tals](https://www.youtube.com/watch?v
   # The computer revolution:
   In his talk Alan Kay point to this book: [the art of the metaobject protocole](https://mitpress.mit.edu/books/art-metaobject-protocol)
   
+  A talk by Sussman on ways to explore new ways of computing [Video](https://www.youtube.com/watch?v=Rk76BurH384).
+  Touches on automatic differentiation.
+  
