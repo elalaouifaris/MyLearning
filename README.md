@@ -226,6 +226,8 @@ EPFL:
 - [Energy Conversion and Renewables Energy](https://www.youtube.com/playlist?list=PL30deB-5iwLKxkJyTvF4Mks9NG1wbATTz)
 - [Advanced Energetic](https://www.youtube.com/playlist?list=PL30deB-5iwLLe6atnSbn1hiPr7Fu1p_e1)
 
+[Bi-level Optimization in Energy](http://web.math.ku.dk/noter/filer/phd19hb.pdf)
+
 <a name="cs">
   
 # Computer Science:
