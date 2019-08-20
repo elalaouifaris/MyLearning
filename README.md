@@ -49,7 +49,7 @@ This is a list of links to learning ressources that are relevant for my personna
 [MIT Linear Algebra - G. Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
  and [MIT Matrix Methods Course - G. Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
 
-[Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
+[Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top) with Notebooks for [2018 edition](https://github.com/alanedelman/18.337_2018/tree/master/Lectures)
 
 ### Advanced:
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
