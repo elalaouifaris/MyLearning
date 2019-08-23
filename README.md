@@ -46,8 +46,19 @@ This is a list of links to learning ressources that are relevant for my personna
 
 [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
 
-[MIT Linear Algebra - G. Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
- and [MIT Matrix Methods Course - G. Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+Gilbert Strang courses @ MIT:
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
+- [Matrix Methods Course](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+- Computational Science & Engineering
+[Part I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
+and
+[Part II](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/)
+- Calculus
+[Highlights](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+and
+[Text book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/)
+- [Differential Equantions](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)
+and [Additional course focused on engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
 
 [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top) with Notebooks for [2018 edition](https://github.com/alanedelman/18.337_2018/tree/master/Lectures)
 
