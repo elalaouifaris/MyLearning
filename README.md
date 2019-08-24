@@ -84,42 +84,61 @@ with Notebooks for
 
 ### Advanced:
 [IIT Madras Linear Algebra Course](https://nptel.ac.in/courses/111/106/111106051/)
+:movie_camera:
 
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
+:orange_book:
 
-[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+[Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+:movie_camera:
+And
+[Intro article from arxiv](https://arxiv.org/abs/1612.09375v1)
+:scroll:
+on the topic, 
+[Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+:orange_book:
 
 <a name="fonda_proba" >
 
 ## Probability Theory & Stochastic processes:
 [MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) by J. Tsitsiklis
+:viedo_camera: :clipboard:
 
 [Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
+:video_camera:
 
-[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - from 
+[Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
+:orange_book:
+from 
 [knill training page](http://www.math.harvard.edu/~knill/teach/index.html)
+:link:
 
 [Applied stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
+:orange_book:
 
 <a name="fonda_phy" >
 
 ## Physics:
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
+:link: :books:
 
 [Susskind courses](http://theoreticalminimum.com/courses) 
-with 
-[lecture notes](http://www.lecture-notes.co.uk/susskind/)
+:link: :movie_camera:
 
 [Landau & Lifschitz](https://www.reddit.com/r/Physics/comments/1dmxq7/our_beloved_landaulifshitz_books_are_available/)
+:link: :books:
 
 [Notes on Thermodynamics & statistical mechanics](http://farside.ph.utexas.edu/teaching/sm1/statmech.pdf)
+:scroll:
 
 [Héritier: Mécanique statistique et transition de phase](https://cel.archives-ouvertes.fr/cel-00092939/document)
+:scroll:
 
 <a name="fonda_pluri" >
 
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
+:link: :video_camera: :computer:
 
 
   
