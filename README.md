@@ -102,10 +102,10 @@ on the topic,
 
 ## Probability Theory & Stochastic processes:
 [MIT Probability Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) by J. Tsitsiklis
-:viedo_camera: :clipboard:
+:movie_camera: :clipboard:
 
 [Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
-:video_camera:
+:movie_camera:
 
 [Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
 :orange_book:
@@ -138,7 +138,7 @@ from
 
 ## Pluri-discipline:
 [Complexity explorer](https://www.complexityexplorer.org/)
-:link: :video_camera: :computer:
+:link: :movie_camera: :computer:
 
 
   
@@ -151,23 +151,38 @@ from
 ## Statistics:
 
 [The Analytical Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)
+:movie_camera: :computer:
 
-[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), 
+[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/),
+:link:
 quick access:
 [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf),
+:orange_book:
 [Mooc](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+:movie_camera:
 
-[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/), 
+[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/),
+:link:
 quick access:
 [book](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+:orange_book:
 
 [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+:orange_book:
 
 [Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
+:orange_book:
 
-[Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+[Statistical Rethinking: A Bayesian Course Using R and Stan](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+:movie_camera:
+with 
+[notebooks](https://github.com/rmcelreath/statrethinking_winter2019)
+ :computer:
+[Book draft site](https://xcelab.net/rm/sr2/)
+ :link: :orange_book:
 
 [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+:orange_book:
 
 <a name="ds_ml">
   
