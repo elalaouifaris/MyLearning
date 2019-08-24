@@ -44,7 +44,9 @@ This is a list of links to learning ressources that are relevant for my personna
 ### Starting:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
-[Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
+Boyd Course On linear Algebra:
+- [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
+-[Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
 Gilbert Strang courses @ MIT:
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
@@ -63,8 +65,9 @@ and [Additional course focused on engineering](https://ocw.mit.edu/courses/mecha
 [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top) with Notebooks for [2018 edition](https://github.com/alanedelman/18.337_2018/tree/master/Lectures)
 
 ### Advanced:
+[IIT Madras Linear Algebra Course](https://nptel.ac.in/courses/111/106/111106051/)
+
 [Abstract Algebra](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
-and other Boyd Course [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
 [Category theory for computer scientist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) And [Intro article from arxiv](https://arxiv.org/abs/1612.09375v1) on the topic, [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
