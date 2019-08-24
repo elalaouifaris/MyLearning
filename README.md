@@ -46,7 +46,7 @@ This is a list of links to learning ressources that are relevant for my personna
 
 Boyd Course On linear Algebra:
 - [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/) and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
--[Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+- [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
 Gilbert Strang courses @ MIT:
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
