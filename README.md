@@ -287,6 +287,8 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 ## Energy Decision Science:
 [Renewables in Electricity Markets](https://www.youtube.com/playlist?list=PLwKjKt8EU3S2bKPVcQE-guuJ3KLEm6_C-)
 
+[Open Electricity Economics](http://www.open-electricity-economics.org/book/text/0-3-contents.html)
+
 [DTU Optimizations for Energy Playlist](https://www.youtube.com/channel/UCiXnS2QbefSshsXQvieK_vA/playlists):
 - [DTU CEE Summer School 2019](https://www.youtube.com/playlist?list=PLKLR7D59yU0dPnB5EEmDd-2O2Rpjx9Uu6)
 - [Advanced Game-Theoretic Models](https://www.youtube.com/playlist?list=PLKLR7D59yU0fuZTH5wjgov31D3DXta_l-)
