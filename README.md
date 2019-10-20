@@ -77,6 +77,9 @@ and
 and [Additional course focused on engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
  :movie_camera:  :clipboard: 
 
+[Linear Algebra and Applications: An Inquiry-Based Approach ](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1021&context=books)
+:clipboard: 
+
 [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
 :clipboard: :computer:
 with Notebooks for 
