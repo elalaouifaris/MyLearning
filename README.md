@@ -109,6 +109,9 @@ on the topic,
 [Probability Foundations](http://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) IIT Madras Course
 :movie_camera:
 
+[MIT Discrete Stochastic Processes - Gallager](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+:movie_camera: :clipboard:
+
 [Probabilities & stochastic processes](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
 :orange_book:
 from 
