@@ -27,3 +27,6 @@ The journey starts with this [Joe Amstrong tals](https://www.youtube.com/watch?v
   Touches on automatic differentiation.
   
   Lisp Stuff: [The most beautiful program ever written](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
+  
+  # The Economic World:
+  [Mariana Mazzucato Has Reinvigorated The Most Important Battle In Economics](https://palladiummag.com/2019/11/21/mariana-mazzucato-has-reinvigorated-the-most-important-battle-in-economics/)
