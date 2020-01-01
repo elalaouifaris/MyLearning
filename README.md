@@ -22,6 +22,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Test Driven Development](#cs_tdd)
   - [Python](#cs_py)
   - [R Programming](#cs_r)
+  - [Julia Programming](#cs_julia)
   - [C Programming](#cs_c)
   - [Rust Programming](#cs_rust)
   - [Collections](#cs_col)
@@ -353,6 +354,11 @@ EPFL:
 [R Programming for beginners](https://www.youtube.com/playlist?list=PLBMSsiJP18O-oUNrDn6bEDAZJ3ne-rylG) (Arabic)
 
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
+
+<a name="cs_julia>
+         
+## Julia Programming:
+[Learning ressources](https://julialang.org/learning/)
 
 <a name="cs_c">
   
