@@ -22,6 +22,8 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Test Driven Development](#cs_tdd)
   - [Python](#cs_py)
   - [R Programming](#cs_r)
+  - [C Programming](#cs_c)
+  - [Rust Programming](#cs_rust)
   - [Collections](#cs_col)
 - [Web Technologies](#web)
   - [JS world](#web_js)
@@ -351,6 +353,28 @@ EPFL:
 [R Programming for beginners](https://www.youtube.com/playlist?list=PLBMSsiJP18O-oUNrDn6bEDAZJ3ne-rylG) (Arabic)
 
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
+
+<a name="cs_c">
+  
+## C Programming:
+[Notes on Data Structures & Programming Technics in C](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
+
+[Build Your Own Lisp](http://www.buildyourownlisp.com/)
+
+[Intrusive Data Structures](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=99FD5852BD7E80DD0CB20F2F003CC1E7?doi=10.1.1.72.6146&rep=rep1&type=pdf)
+
+<a name="cs_rust">
+  
+## Rust Programming:
+[The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/#learn-rust-with-entirely-too-many-linked-lists)
+
+[Rust Algorithms (repo)](https://github.com/EbTech/rust-algorithms)
+
+[Risp](https://m.stopa.io/risp-lisp-in-rust-90a0dad5b116)
+&
+[Rust Your Own Lisp](https://dev.to/deciduously/rust-your-own-lisp-50an)
 
 <a name="cs_scale" >
 
