@@ -325,6 +325,8 @@ EPFL:
 <a name="cs_tdd">
 
 ## Test Driven Dev:
+[TDD by Example](http://barbra-coco.dyndns.org/yuri/Kent_Beck_TDD.pdf)
+
 [Obey the testing goat](https://www.obeythetestinggoat.com/pages/book.html)
 
 <a name="cs_py" >
