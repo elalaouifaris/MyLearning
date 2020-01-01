@@ -357,6 +357,8 @@ EPFL:
 <a name="cs_c">
   
 ## C Programming:
+[Bottom-up CS](https://www.bottomupcs.com/)
+
 [Notes on Data Structures & Programming Technics in C](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 
 [Build Your Own Lisp](http://www.buildyourownlisp.com/)
