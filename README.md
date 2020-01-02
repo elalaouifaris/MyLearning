@@ -386,6 +386,10 @@ EPFL:
 &
 [Rust Your Own Lisp](https://dev.to/deciduously/rust-your-own-lisp-50an)
 
+[Opinion on C++ vs Rust](http://cliffle.com/blog/prefer-rust/)
+and
+[Rewrite from C++ to Rust](http://cliffle.com/blog/m4vga-in-rust/)
+
 <a name="cs_scale" >
 
 ## Collections:
