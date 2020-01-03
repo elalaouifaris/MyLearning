@@ -396,6 +396,8 @@ and
 ## Go Programming:
 [Go by example](https://gobyexample.com/)
 
+[Learn Go with tests](https://github.com/quii/learn-go-with-tests)
+
 <a name="cs_scale" >
 
 ## Collections:
