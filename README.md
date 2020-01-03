@@ -25,6 +25,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Julia Programming](#cs_julia)
   - [C Programming](#cs_c)
   - [Rust Programming](#cs_rust)
+  - [Go Programming](#cs_go)
   - [Collections](#cs_col)
 - [Web Technologies](#web)
   - [JS world](#web_js)
@@ -389,6 +390,11 @@ EPFL:
 [Opinion on C++ vs Rust](http://cliffle.com/blog/prefer-rust/)
 and
 [Rewrite from C++ to Rust](http://cliffle.com/blog/m4vga-in-rust/)
+
+<a name="cs_go">
+  
+## Go Programming:
+[Go by example](https://gobyexample.com/)
 
 <a name="cs_scale" >
 
