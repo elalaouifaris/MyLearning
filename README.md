@@ -26,9 +26,11 @@ This is a list of links to learning ressources that are relevant for my personna
   - [C Programming](#cs_c)
   - [Rust Programming](#cs_rust)
   - [Go Programming](#cs_go)
+  - [JS/TS Programming](#cs_js)
+  - [Elixir Programming](#cs_elixir)
   - [Collections](#cs_col)
 - [Web Technologies](#web)
-  - [JS world](#web_js)
+  - [Full Stack](#web_stack)
   - [Design & Front-end](#web_fe)
   - [Frameworks & Back-End](#web_be)
 - [Dev Tools](#tools)
@@ -398,6 +400,19 @@ and
 
 [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 
+<a name="cs_js" >
+  
+## JS/TS Programming:
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+
+<a name="cs_elixir") >
+  
+## Elixir Programming:
+[Elixir](http://elixir-lang.org/)
+
+[Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
+
 <a name="cs_scale" >
 
 ## Collections:
@@ -415,14 +430,12 @@ and
 
 <a name="web" >
 
-# Web Technologies:
+# Web Dev:
 
-<a name="web_js" >
+<a name="web_stack" >
 
-## JS world:
+## Full Stack:
 [FeeCodeCamp](https://www.freecodecamp.com/)
-
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 <a name="web_fe" >
 
@@ -440,11 +453,9 @@ and
 
 [Phoenix Framework](http://www.phoenixframework.org/) 
 based on 
-[Elixir](http://elixir-lang.org/)
 
 [Mastering Phoenix Framework](https://shankardevy.com/phoenix-inside-out-mpf/)
 
-[Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
 <a name="tools">
   
