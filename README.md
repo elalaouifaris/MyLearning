@@ -405,8 +405,7 @@ and
 ## JS/TS Programming:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-
-<a name="cs_elixir") >
+<a name="cs_elixir">
   
 ## Elixir Programming:
 [Elixir](http://elixir-lang.org/)
