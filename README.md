@@ -360,7 +360,7 @@ EPFL:
 
 [Bookdown](https://bookdown.org/yihui/bookdown/) with many [R books](https://bookdown.org/) made with it.
 
-<a name="cs_julia>
+<a name="cs_julia">
          
 ## Julia Programming:
 [Learning ressources](https://julialang.org/learning/)
