@@ -20,7 +20,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - [Computer Science](#cs)
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
-  - [Python](#cs_py)
+  - [Python Programming](#cs_py)
   - [R Programming](#cs_r)
   - [Julia Programming](#cs_julia)
   - [C Programming](#cs_c)
@@ -334,7 +334,7 @@ EPFL:
 
 <a name="cs_py" >
 
-## Python:
+## Python Programming:
 [Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
 
 [Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
