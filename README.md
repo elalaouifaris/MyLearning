@@ -26,8 +26,8 @@ This is a list of links to learning ressources that are relevant for my personna
   - [C Programming](#cs_c)
   - [Rust Programming](#cs_rust)
   - [Go Programming](#cs_go)
-  - [JS/TS Programming](#cs_js)
   - [Elixir Programming](#cs_elixir)
+  - [JS/TS Programming](#cs_js)
   - [Collections](#cs_col)
 - [Web Technologies](#web)
   - [Full Stack](#web_stack)
@@ -409,17 +409,17 @@ Go Blog:
 / 
 [Modules](https://blog.golang.org/using-go-modules)
 
-<a name="cs_js" >
-  
-## JS/TS Programming:
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
 <a name="cs_elixir">
   
 ## Elixir Programming:
 [Elixir](http://elixir-lang.org/)
 
 [Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
+
+<a name="cs_js" >
+  
+## JS/TS Programming:
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 <a name="cs_scale" >
 
