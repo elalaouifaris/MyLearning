@@ -400,6 +400,15 @@ and
 
 [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 
+Go Blog:
+[Declaration](https://blog.golang.org/gos-declaration-syntax)
+, 
+[Defer](https://blog.golang.org/go-slices-usage-and-internals)
+, 
+[Slices](https://blog.golang.org/go-slices-usage-and-internals)
+, 
+[Modules](https://blog.golang.org/using-go-modules)
+
 <a name="cs_js" >
   
 ## JS/TS Programming:
