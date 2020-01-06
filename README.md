@@ -474,6 +474,8 @@ based on
 ## Unix:
 [The Grymoire](http://www.grymoire.com/Unix/)
 
+[Operating Systems: Design & Implementation](https://mcdtu.files.wordpress.com/2017/03/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition.pdf)
+
 <a name="tools_vscode">
   
 ## VS Code:
