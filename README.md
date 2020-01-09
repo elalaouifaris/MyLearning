@@ -323,6 +323,8 @@ EPFL:
 
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
+[Ray Toal Courses](https://cs.lmu.edu/~ray/)
+
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
 
 <a name="cs_tdd">
