@@ -28,6 +28,7 @@ This is a list of links to learning ressources that are relevant for my personna
   - [Go Programming](#cs_go)
   - [Elixir Programming](#cs_elixir)
   - [JS/TS Programming](#cs_js)
+  - [Interpreters & Compilers](#cs_interp)
   - [Collections](#cs_col)
 - [Web Technologies](#web)
   - [Full Stack](#web_stack)
@@ -376,8 +377,6 @@ EPFL:
 
 [Notes on Data Structures & Programming Technics in C](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 
-[Build Your Own Lisp](http://www.buildyourownlisp.com/)
-
 [Intrusive Data Structures](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=99FD5852BD7E80DD0CB20F2F003CC1E7?doi=10.1.1.72.6146&rep=rep1&type=pdf)
 
 <a name="cs_rust">
@@ -424,6 +423,13 @@ Go Blog:
   
 ## JS/TS Programming:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+<a name="cs_interp">
+  
+## Interpreters & Compilers:
+[Build Your Own Lisp](http://www.buildyourownlisp.com/)
+
+[Crafting interpreters](https://www.craftinginterpreters.com/contents.html)
 
 <a name="cs_scale" >
 
