@@ -493,6 +493,8 @@ based on
 ## VS Code:
 [Using pure python notebook docs in VS Code](https://devblogs.microsoft.com/python/data-science-with-python-in-visual-studio-code/)
 
+[DIY vim extension](https://johtela.github.io/vscode-modaledit/docs/.vscode/settings.html)
+
 <a name="classic_reads" >
 
 # Classics Reading:
