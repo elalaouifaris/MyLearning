@@ -342,6 +342,8 @@ EPFL:
 
 [Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
 
+[Data Structures & Algorithms in Python](https://pdfs.semanticscholar.org/9eed/92c4fadffc84640b861cdabcc8eb1b4fad91.pdf?_ga=2.141159985.2069754636.1583490008-203674263.1583490008)
+
 [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 
 [Making Python Fast](https://martinheinz.dev/blog/13)
