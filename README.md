@@ -464,6 +464,8 @@ Go Blog:
 
 [CSS Layout](http://learnlayout.com/)
 
+[How to manage HTML DOM with vanilla JavaScript only](https://htmldom.dev/)
+
 
 <a name="web_be" >
 
