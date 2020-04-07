@@ -208,6 +208,8 @@ Nando De Freitas:
 [ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
 [Deep Learning](https://www.youtube.com/playlist?list=PLikAfElg4hg-e9KoIpG0I85NpZW22fV7l)
 
+[Data-Driven Science & Engineering](http://databookuw.com/databook.pdf) & [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+
 [fast.ai deep learning course](http://course.fast.ai/index.html) by Jeremy Howard
 
 [Hugo Larochelle - Cours RN](http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html)
