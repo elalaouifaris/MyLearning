@@ -158,6 +158,7 @@ from
 [Complexity explorer](https://www.complexityexplorer.org/)
 :link: :movie_camera: :computer:
 
+[Steve Brunton Youtube Channel](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists)
 
   
 <a name="ds">
