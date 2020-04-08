@@ -75,11 +75,6 @@ and
 [Text book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/)
 :orange_book:
 
-- Calculus Videos on Youtube:
-[Part I](https://www.youtube.com/playlist?list=PL265CB737C01F8961)
-and
-[Part II](https://www.youtube.com/playlist?list=PLm168eGEcBjnS6ecJflh7BTDaUB6jShIL)
-
 - [Differential Equantions](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)
  :movie_camera:  :clipboard: 
 and [Additional course focused on engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
@@ -87,6 +82,12 @@ and [Additional course focused on engineering](https://ocw.mit.edu/courses/mecha
 
 [Linear Algebra and Applications: An Inquiry-Based Approach ](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1021&context=books)
 :clipboard: 
+
+Calculus Videos on Youtube:
+[Part I](https://www.youtube.com/playlist?list=PL265CB737C01F8961)
+and
+[Part II](https://www.youtube.com/playlist?list=PLm168eGEcBjnS6ecJflh7BTDaUB6jShIL)
+:movie_camera:
 
 [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/#top)
 :clipboard: :computer:
