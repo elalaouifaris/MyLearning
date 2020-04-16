@@ -335,6 +335,8 @@ EPFL:
 
 [Ray Toal Courses](https://cs.lmu.edu/~ray/)
 
+[Proramming Algorithms (in Lisp)](https://leanpub.com/progalgs/read)
+
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
 
 <a name="cs_tdd">
