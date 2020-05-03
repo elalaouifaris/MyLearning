@@ -113,6 +113,11 @@ on the topic,
 [Book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 :orange_book:
 
+[Applied Category Theory - MIT](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
+:movie_camera:
+:scroll:
+
+
 <a name="fonda_proba" >
 
 ## Probability Theory & Stochastic processes:
