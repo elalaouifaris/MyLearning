@@ -58,6 +58,8 @@ and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.p
 :movie_camera: 
 
 Gilbert Strang courses @ MIT:
+- [2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+:movie_camera:
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 :movie_camera:  :clipboard:
 - [Matrix Methods Course](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
