@@ -291,6 +291,10 @@ and [Advanced](https://nptel.ac.in/courses/112106131/)
 ## Maths for Optimization
 [Numerical Linear Algbra Course](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
+[Advanced Linear Algebra](http://www.cs.utexas.edu/users/flame/laff/alaff/index.html)
+and
+[LAFF-On Programming for High Performance](http://www.cs.utexas.edu/users/flame/laff/pfhp/index.html)
+
 [Algebra, Topology, Di↵erential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 [Stanford Convex Optimization](http://stanford.edu/~boyd/cvxbook/) 
