@@ -97,6 +97,12 @@ with Notebooks for
 [2018 edition](https://github.com/alanedelman/18.337_2018/tree/master/Lectures)
 :clipboard: :computer:
 
+[Introduction to Functional Analysis](https://www.youtube.com/playlist?list=PLSpInro6Ys2IHve6oN9h005zmwfLnOSp1)
+:movie_camera:
+[Notes](https://drive.google.com/file/d/0B9ypuUWMHGDaOEg3THN5Z0tXVEU/view)
+:clipboard:
+
+
 ### Advanced:
 [IIT Madras Linear Algebra Course](https://nptel.ac.in/courses/111/106/111106051/)
 :movie_camera:
