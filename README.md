@@ -488,7 +488,6 @@ Go Blog:
 <a name="web_fe" >
 
 ## Design & Front-end:
-[Relearn CSS Layout](https://every-layout.dev/)
 
 [CSS Layout](http://learnlayout.com/)
 
