@@ -326,6 +326,10 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 - [Advanced Game-Theoretic Models](https://www.youtube.com/playlist?list=PLKLR7D59yU0fuZTH5wjgov31D3DXta_l-)
 - [DTU CEE Summer School 2018](https://www.youtube.com/playlist?list=PLKLR7D59yU0fgC_Ac6v0I0yGO8FcE98GH)
 
+ENPC:
+- [PGMO Optimisation et Contôle](https://eductv.enpc.fr/channels/#optimisation-et-controle) 
+- [PGMO Modélisation pour la gestion durable des ressources naturelles](https://eductv.enpc.fr/channels/#pgmo-modelisation-pour-la-gestion-durable-des-ressources-naturelles)
+
 EPFL:
 
 - [Modeling & Optimization of Energy Systems](https://www.youtube.com/playlist?list=PL30deB-5iwLJrbaoZth3XfBUFkwn_bY02)
