@@ -46,6 +46,8 @@ This is a list of links to learning ressources that are relevant for my personna
   
   [Open Textbooks Library (U. Minnesota)](https://open.umn.edu/opentextbooks)
   
+  [OpenStax: Free textbooks (Rice)](https://openstax.org/)
+  
 ## Math Foundations for CS:
 ### Starting:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
