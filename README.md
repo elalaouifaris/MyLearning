@@ -44,6 +44,8 @@ This is a list of links to learning ressources that are relevant for my personna
 # Foundations in Maths & Physics:
 <a name="fonda_math_cs" >
   
+  [Open Textbooks Library (U. Minnesota)](https://open.umn.edu/opentextbooks)
+  
 ## Math Foundations for CS:
 ### Starting:
 [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
