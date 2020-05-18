@@ -2,6 +2,7 @@
   - [قراءة ااﻹمام ورش](#deen_warsh)
   - [تفسير القرآن](#deen_tafseer)
   - [فقه](#deen_fiqh)
+  - [عربية](#deen_arabic)
   
   
 <a name="deen" >
@@ -41,3 +42,9 @@
 
 ## فقه
 [كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
+
+
+<a name="deen_arabic" >
+  
+## العربية
+[شرح نظم اﻵجرومية - متن عبيد ربه](https://www.youtube.com/playlist?list=PLrTbvvXShHHdoo3D0bKRPt47llJso43mm)
