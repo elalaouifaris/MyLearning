@@ -60,6 +60,7 @@ and [Julia Compagnion Book](http://vmls-book.stanford.edu/vmls-julia-companion.p
 :orange_book:
 - [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 :movie_camera: 
+[EE263 cours website for notes & homeworks](https://see.stanford.edu/Course/EE263)
 
 Gilbert Strang courses @ MIT:
 - [2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
