@@ -10,6 +10,9 @@
 # دين و فكر
 
 <a name="deen_warsh" >
+  
+[صالح المغامسي - المقام الأمين](https://www.youtube.com/playlist?list=PL8DE89CDB58D4FBDF)
+:movie_camera:
 
 ## قراءة ااﻹمام ورش
 
