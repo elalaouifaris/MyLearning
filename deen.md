@@ -16,7 +16,7 @@
 
 ## قراءة ااﻹمام ورش
 
-[تعلم أحكام تجويد القرآن الكريم برواية ورش عن نافع دكتور أيمن رشدي سويد](https://www.youtube.com/playlist?list=PLlX1sKIV4qu9JwdFf4W6LupJeJIrnJJIz)
+[تعلم أحكام تجويد القرآن الكريم برواية ورش عن نافع دكتور أيمن رشدي سويد](https://www.youtube.com/playlist?list=PLGrrA9CR31TQmCBiVGbCnjQ6QHVHfaEiJ)
 :movie_camera:
 
 [الماهر بالقران ۩ برنامج لتعليم أحكام رواية ورش عن نافع من طريق الأزرق](https://www.youtube.com/playlist?list=PLSu2bj6raSer52fAWsKm6Z5r83298VddI)
