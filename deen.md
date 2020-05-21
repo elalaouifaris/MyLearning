@@ -46,6 +46,8 @@
 ## فقه
 [كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
 
+[Doctrine Malikite](https://www.doctrine-malikite.fr/)
+
 
 <a name="deen_arabic" >
   
