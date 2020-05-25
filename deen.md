@@ -44,7 +44,7 @@
 <a name="deen_fiqh" >
 
 ## فقه
-[كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa)
+[كرسي الإمام مالك](http://alkarassi.jilal.net/said-al-kamali/al-mowataa) [Youtube Playlist](https://www.youtube.com/playlist?list=PLawcyDmUJMbjPqzr7mKOJbHf61BFnBgOh)
 
 [Doctrine Malikite](https://www.doctrine-malikite.fr/)
 
