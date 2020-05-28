@@ -100,6 +100,9 @@ Learn Elixir with a Rubyist:
 ### Python:
 [Problems I have with Python](http://darkf.github.io/posts/problems-i-have-with-python.html)
 
+[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+
+
 <a name="cs" />
 
 # CS Ideas:
