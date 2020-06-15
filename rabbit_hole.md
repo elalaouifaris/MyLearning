@@ -30,3 +30,13 @@ The journey starts with this [Joe Amstrong tals](https://www.youtube.com/watch?v
   
   # The Economic World:
   [Mariana Mazzucato Has Reinvigorated The Most Important Battle In Economics](https://palladiummag.com/2019/11/21/mariana-mazzucato-has-reinvigorated-the-most-important-battle-in-economics/)
+  
+  # Forecasting is Hard:
+  [Covid 19 ioannidis vs taleb argument](https://forecasters.org/blog/2020/06/14/covid-19-ioannidis-vs-taleb/) 
+  with 
+  [Ioannidis arguments](https://forecasters.org/blog/2020/06/14/forecasting-for-covid-19-has-failed/)
+  and
+  [Taleb arguments](https://forecasters.org/blog/2020/06/14/on-single-point-forecasts-for-fat-tailed-variables/)
+  
+  Paper by Taleb to go further:
+  [On the Statistical Differences between Binary Forecasts and Real World Payoffs](https://arxiv.org/abs/1907.11162)
