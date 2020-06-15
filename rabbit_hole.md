@@ -40,3 +40,18 @@ The journey starts with this [Joe Amstrong tals](https://www.youtube.com/watch?v
   
   Paper by Taleb to go further:
   [On the Statistical Differences between Binary Forecasts and Real World Payoffs](https://arxiv.org/abs/1907.11162)
+  
+  
+# Physics Informed Deep Learning 
+[Physics Informed Deep Learning](https://maziarraissi.github.io/PINNs/)
+
+[Application to power systems](https://arxiv.org/pdf/1911.03737.pdf)
++ related course on ML for power systems course
+[slides](http://www.chatziva.com/presentations/Chatzivasileiadis_MLinPowerSystems_APSSS2020_final.pdf)
+[Video1](https://youtu.be/5UeJgGFo780)
+[Video2](https://youtu.be/sj9WzvddW_k)
+[Video3](https://youtu.be/sKOiUEu3hqY)
+
+
+
+
