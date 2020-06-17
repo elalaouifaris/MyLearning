@@ -32,3 +32,6 @@ based on
 
 [Mastering Phoenix Framework](https://shankardevy.com/phoenix-inside-out-mpf/)
 
+# Inspiration:
+[anurag hazra](https://anuraghazra.github.io/)
+
