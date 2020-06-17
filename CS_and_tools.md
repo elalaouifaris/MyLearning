@@ -114,6 +114,8 @@ and
 
 [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 
+[Lisp in Go by Rob Pike](https://github.com/robpike/lisp)
+
 Go Blog:
 [Declaration](https://blog.golang.org/gos-declaration-syntax)
 / 
