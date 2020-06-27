@@ -11,16 +11,15 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 [EDF Opera](https://github.com/Dralliag/opera) package
 
 # Python:
-## Deep learning:
-[PyTorch](http://pytorch.org/)
-
 ## ML pipeline:
 [Kedro](https://github.com/quantumblacklabs/kedro)
 
 # Jupyter:
 [Voilà interactive notebooks](https://github.com/QuantStack/voila)
 
-# JS:
+# JS & CSS:
+[Rough Notation](https://roughnotation.com/)
+
 ## HTML 5 Plugins:
 [Video JS](http://videojs.com/)
 
