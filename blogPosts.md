@@ -106,6 +106,9 @@ Learn Elixir with a Rubyist:
 <a name="cs" />
 
 # CS Ideas:
+
+[A brief Introduction to the Beauty of information Theory](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355?gi=bcd200baf126)
+
 ## Machine Learning:
 [Deep Reinforcement Learning Review](https://arxiv.org/abs/1701.07274)
 
