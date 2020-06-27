@@ -24,6 +24,8 @@
 ## Programming Paradigms:
 
 [The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+&
+[SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 
 [Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
 
