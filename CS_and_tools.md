@@ -35,6 +35,8 @@
 
 [Proramming Algorithms (in Lisp)](https://leanpub.com/progalgs/read)
 
+[Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+
 [Brief guide to programming languages](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (Arabic)
 
 <a name="cs_tdd">
