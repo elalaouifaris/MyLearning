@@ -170,6 +170,8 @@ Go Blog:
 <a name="tools_unix">
   
 [The Missing Semester in your CS Education](https://missing.csail.mit.edu/)
+
+[Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
   
 ## Unix:
 [The Grymoire](http://www.grymoire.com/Unix/)
