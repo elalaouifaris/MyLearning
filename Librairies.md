@@ -17,6 +17,8 @@ Twitter [Anomaly Detection](https://github.com/twitter/AnomalyDetection) and
 # Jupyter:
 [Voilà interactive notebooks](https://github.com/QuantStack/voila)
 
+[Streamlit](https://www.streamlit.io/)
+
 # JS & CSS:
 [Rough Notation](https://roughnotation.com/)
 
