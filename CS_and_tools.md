@@ -141,6 +141,8 @@ Go Blog:
 ## JS/TS Programming:
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+[Deep Javascript](https://exploringjs.com/deep-js/)
+
 <a name="cs_interp">
   
 ## Interpreters & Compilers:
