@@ -20,6 +20,8 @@
 
 [How to manage HTML DOM with vanilla JavaScript only](https://htmldom.dev/)
 
+[Svelte Compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/)
+
 
 <a name="web_be" >
 
