@@ -59,6 +59,8 @@ Index:
 ### Lisp & Co:
 [Lisp as the maxwell equations of software](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
 
+[Lispy: Lisp interpreter in Python](http://norvig.com/lispy.html)
+
 <a name="tech_prog_haskell" />
 
 ### Haskell:
