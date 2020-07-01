@@ -7,7 +7,7 @@ Index:
   - [OS & Productivity](#tech_os)
     - [linux](#tech_os_linux)
   - [Programming](#tech_prog)
-    - [Scheme](#tech_prog_scheme)
+    - [Lisp & co](#tech_prog_lisp)
     - [Haskell](#tech_prog_haskell)
     - [Erlang](#tech_prog_erlang)
     - [Elixir](#tech_prog_elixir)
@@ -54,10 +54,10 @@ Index:
 <a name="tech_prog" />
 
 ## Programming:
-<a name="tech_prog_scheme" />
+<a name="tech_prog_lisp" />
 
-### Scheme:
-[Setting-up MIT Scheme on Mac](https://thesabbir.com/setting-up-mit-scheme-on-os-x-yosemite-with-homebrew/)
+### Lisp & Co:
+[Lisp as the maxwell equations of software](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
 
 <a name="tech_prog_haskell" />
 
