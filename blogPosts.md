@@ -123,6 +123,8 @@ Learn Elixir with a Rubyist:
 # Trends & Soft Skills:
 <a name="trends_data" />
 
+[Digital Psychology](https://digitalpsychology.io/)
+
 ## Data World:
 [The new gold rush?](http://mattturck.com/2017/01/17/the-new-gold-rush-wall-street-wants-your-data/) Use of start-up data in wallstreet
 
