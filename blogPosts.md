@@ -125,6 +125,8 @@ Learn Elixir with a Rubyist:
 
 [Digital Psychology](https://digitalpsychology.io/)
 
+[Advice for lectures](https://www.ams.org/notices/199701/comm-rota.pdf)
+
 ## Data World:
 [The new gold rush?](http://mattturck.com/2017/01/17/the-new-gold-rush-wall-street-wants-your-data/) Use of start-up data in wallstreet
 
