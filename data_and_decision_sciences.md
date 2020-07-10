@@ -98,6 +98,8 @@ Here are [notes](https://robjhyndman.com/uwafiles/fpp-notes.pdf) with chapter on
 
 [IIT Applied Time Series Analysis](https://nptel.ac.in/courses/103106123/)
 
+[HMM tutorial](https://www.youtube.com/playlist?list=PLix7MmR3doRo3NGNzrq48FItR3TDyuLCo)
+
 <a name="ds_nlp" >
   
 ## Natural Language Processing:
