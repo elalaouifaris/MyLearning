@@ -33,6 +33,12 @@
 [ختمة مرتلة | عمر القزابري](https://www.youtube.com/playlist?list=PLFF554FB1D3DC37CD)
 :movie_camera:
 
+شروح متن الدرر اللوامع:
+
+- [الكراسي العلمية](https://www.youtube.com/playlist?list=PLd85vmvf1V08oDy0fJZFxk-FT2qWVlgaP)
+- [الماهر بالقرآن](https://www.youtube.com/playlist?list=PLZ-YswHzri24OsHZu_PpljEx8dz-uduD-)
+- [معهد الماهر بالقرآن](https://www.youtube.com/playlist?list=PLKKsCIejtuZXgOxDrsgjWSXA4wIDY011q)
+
 <a name="deen_tafseer" >
 
 ## تفسير القرآن
