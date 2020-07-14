@@ -38,6 +38,7 @@
 - [الكراسي العلمية](https://www.youtube.com/playlist?list=PLd85vmvf1V08oDy0fJZFxk-FT2qWVlgaP)
 - [الماهر بالقرآن](https://www.youtube.com/playlist?list=PLZ-YswHzri24OsHZu_PpljEx8dz-uduD-)
 - [معهد الماهر بالقرآن](https://www.youtube.com/playlist?list=PLKKsCIejtuZXgOxDrsgjWSXA4wIDY011q)
+- [للفقيه أبي إلياس موسى الدخيلة](https://www.youtube.com/playlist?list=PLqz43XUVUT94RY-qEk14kKJCcPk5A8SXH)
 
 <a name="deen_tafseer" >
 
