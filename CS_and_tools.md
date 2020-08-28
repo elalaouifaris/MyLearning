@@ -4,7 +4,9 @@
   - [Python Programming](#cs_py)
   - [R Programming](#cs_r)
   - [Julia Programming](#cs_julia)
+  - [Lisp Family](#cs_lisp)
   - [C Programming](#cs_c)
+  - [Haskell](#cs_haskell)
   - [Rust Programming](#cs_rust)
   - [Go Programming](#cs_go)
   - [Elixir Programming](#cs_elixir)
@@ -24,8 +26,6 @@
 ## Programming Paradigms:
 
 [The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-&
-[SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 
 [Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
 
@@ -34,8 +34,6 @@
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 [Ray Toal Courses](https://cs.lmu.edu/~ray/)
-
-[Proramming Algorithms (in Lisp)](https://leanpub.com/progalgs/read)
 
 [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 
@@ -83,7 +81,31 @@
 <a name="cs_julia">
          
 ## Julia Programming:
+[Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+
+[Julia Free Books](https://www.linuxlinks.com/excellent-free-books-learn-julia/)
+
 [Learning ressources](https://julialang.org/learning/)
+
+<a name="cs_lisp">
+  
+## Lisp Family:
+
+[An Introduction to Scheme and its Implementation](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_toc.html)
+
+[Practical Common Lisp](http://www.gigamonkeys.com/book/)
+
+### P. Norvig
+
+- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+
+- [Lispy: Lisp implemented in python](https://norvig.com/lispy2.html) Blog post
+
+### Other Free Books:
+- [Scheme](https://www.linuxlinks.com/excellent-free-books-learn-scheme/)
+- [Lisp](https://www.linuxlinks.com/excellent-free-books-learn-lisp/)
+- [Clojure](https://www.linuxlinks.com/excellent-free-books-learn-clojure/)
+
 
 <a name="cs_c">
   
@@ -93,6 +115,18 @@
 [Notes on Data Structures & Programming Technics in C](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 
 [Intrusive Data Structures](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=99FD5852BD7E80DD0CB20F2F003CC1E7?doi=10.1.1.72.6146&rep=rep1&type=pdf)
+
+<a name="cs_haskell">
+  
+## Haskell - ML Family:
+
+[Learn you a Haskell](http://learnyouahaskell.com/)
+
+[More free books in haskell](https://www.linuxlinks.com/best-free-books-learn-haskell/)
+
+[More free books in OCaml](https://www.linuxlinks.com/excellent-free-books-learn-ocaml/)
+
+[More free books in Standard ML](https://www.linuxlinks.com/excellent-free-books-learn-standard-ml/)
 
 <a name="cs_rust">
   
@@ -107,10 +141,6 @@
 &
 [Rust Your Own Lisp](https://dev.to/deciduously/rust-your-own-lisp-50an)
 
-[Opinion on C++ vs Rust](http://cliffle.com/blog/prefer-rust/)
-and
-[Rewrite from C++ to Rust](http://cliffle.com/blog/m4vga-in-rust/)
-
 <a name="cs_go">
   
 ## Go Programming:
@@ -119,15 +149,6 @@ and
 [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 
 [Lisp in Go by Rob Pike](https://github.com/robpike/lisp)
-
-Go Blog:
-[Declaration](https://blog.golang.org/gos-declaration-syntax)
-/ 
-[Defer](https://blog.golang.org/go-slices-usage-and-internals)
-/
-[Slices](https://blog.golang.org/go-slices-usage-and-internals)
-/ 
-[Modules](https://blog.golang.org/using-go-modules)
 
 <a name="cs_elixir">
   
@@ -177,6 +198,10 @@ Go Blog:
   
 ## Unix:
 [The Grymoire](http://www.grymoire.com/Unix/)
+
+[Bash Free Books](https://www.linuxlinks.com/excellent-free-books-learn-bash/)
+
+[Awk Free Books](https://www.linuxlinks.com/best-free-books-to-learn-about-awk/)
 
 [Operating Systems: Design & Implementation](https://mcdtu.files.wordpress.com/2017/03/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition.pdf)
 
