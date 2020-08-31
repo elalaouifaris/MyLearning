@@ -60,6 +60,8 @@ with
 
 [Caltech Learning fron data](http://work.caltech.edu/telecourse.html)
 
+[Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
 Nando De Freitas: 
 [ML Undergrad](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf), 
 [ML Grad](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6), 
