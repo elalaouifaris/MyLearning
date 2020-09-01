@@ -34,6 +34,9 @@ Politz Compiler course:
 [Assinements](https://github.com/ucsd-cse131-sp17)
 [Website](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
+[B. Lerner Compiler Course](https://course.ccs.neu.edu/cs4410sp20/)
+link to his [website](https://www.ccs.neu.edu/home/blerner/)
+
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
