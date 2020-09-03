@@ -37,6 +37,8 @@ Politz Compiler course:
 [B. Lerner Compiler Course](https://course.ccs.neu.edu/cs4410sp20/)
 link to his [website](https://www.ccs.neu.edu/home/blerner/)
 
+[Programming with Categories](http://brendanfong.com/programmingcats.html)
+
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
