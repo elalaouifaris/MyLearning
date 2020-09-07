@@ -27,14 +27,18 @@
 
 [The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
-[Programming Languages - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
+Programming languages - Brown PLT:
 
-Politz Compiler course:
+- [PLAI - Brown CS 173 - 2012](http://cs.brown.edu/courses/cs173/2012/)
+
+- [ PAPL - using Pyret](https://papl.cs.brown.edu/2020/)
+
+- Politz Compiler course:
 [Videos](https://podcast.ucsd.edu/watch/SP17/cse131_sp17/1)
 [Assinements](https://github.com/ucsd-cse131-sp17)
 [Website](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
-[B. Lerner Compiler Course](https://course.ccs.neu.edu/cs4410sp20/)
+- [B. Lerner Compiler Course](https://course.ccs.neu.edu/cs4410sp20/)
 link to his [website](https://www.ccs.neu.edu/home/blerner/)
 
 [Programming with Categories](http://brendanfong.com/programmingcats.html)
