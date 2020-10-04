@@ -25,6 +25,8 @@
 
 ## Programming Paradigms:
 
+[Functional CS Curriculum](https://functionalcs.github.io/curriculum/)
+
 [The wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
 Programming languages - Brown PLT:
