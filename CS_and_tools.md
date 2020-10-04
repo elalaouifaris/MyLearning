@@ -43,6 +43,10 @@ link to his [website](https://www.ccs.neu.edu/home/blerner/)
 
 [Programming with Categories](http://brendanfong.com/programmingcats.html)
 
+[Great Ideas in Computer Science](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+Notes are in the
+[old course website](https://www.cs.cmu.edu/~arielpro/15251f15/schedule.html)
+
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
