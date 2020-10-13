@@ -6,7 +6,7 @@
   - [Julia Programming](#cs_julia)
   - [Lisp Family](#cs_lisp)
   - [C Programming](#cs_c)
-  - [Haskell](#cs_haskell)
+  - [Haskell & ML Family](#cs_haskell)
   - [Rust Programming](#cs_rust)
   - [Go Programming](#cs_go)
   - [Elixir Programming](#cs_elixir)
@@ -142,11 +142,20 @@ Notes are in the
 
 [Learn you a Haskell](http://learnyouahaskell.com/)
 
-[More free books in haskell](https://www.linuxlinks.com/best-free-books-learn-haskell/)
+[Real World OCaml](https://dev.realworldocaml.org/)
 
-[More free books in OCaml](https://www.linuxlinks.com/excellent-free-books-learn-ocaml/)
+[Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 
-[More free books in Standard ML](https://www.linuxlinks.com/excellent-free-books-learn-standard-ml/)
+[Owl: Ocaml Scientific Computing](https://ocaml.xyz/)
+
+
+Other Free resources:
+
+- [More free books in haskell](https://www.linuxlinks.com/best-free-books-learn-haskell/)
+
+- [More free books in OCaml](https://www.linuxlinks.com/excellent-free-books-learn-ocaml/)
+
+- [More free books in Standard ML](https://www.linuxlinks.com/excellent-free-books-learn-standard-ml/)
 
 <a name="cs_rust">
   
