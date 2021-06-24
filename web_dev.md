@@ -35,6 +35,8 @@
 based on 
 
 [Mastering Phoenix Framework](https://shankardevy.com/phoenix-inside-out-mpf/)
+  
+[Django for startup founders](https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html)
 
 # Inspiration:
 [anurag hazra](https://anuraghazra.github.io/)
