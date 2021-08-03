@@ -235,6 +235,8 @@ Other Free resources:
 [Awk Free Books](https://www.linuxlinks.com/best-free-books-to-learn-about-awk/)
 
 [Operating Systems: Design & Implementation](https://mcdtu.files.wordpress.com/2017/03/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition.pdf)
+  
+[Secure Programming HowTo](https://dwheeler.com/secure-programs/)
 
 <a name="tools_vscode">
   
