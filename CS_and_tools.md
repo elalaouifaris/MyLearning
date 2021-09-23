@@ -78,6 +78,8 @@ Notes are in the
 [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
   
 [Cosmic Python: Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
+  
+[Python Patterns Website](https://python-patterns.guide/)
 
 [Making Python Fast](https://martinheinz.dev/blog/13)
 
