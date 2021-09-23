@@ -2,6 +2,7 @@
   - [Programming Paradigms](#cs_progparadigm)
   - [Test Driven Development](#cs_tdd)
   - [Python Programming](#cs_py)
+  - [JS/TS Programming](#cs_js)
   - [R Programming](#cs_r)
   - [Julia Programming](#cs_julia)
   - [Lisp Family](#cs_lisp)
@@ -10,7 +11,6 @@
   - [Rust Programming](#cs_rust)
   - [Go Programming](#cs_go)
   - [Elixir Programming](#cs_elixir)
-  - [JS/TS Programming](#cs_js)
   - [Interpreters & Compilers](#cs_interp)
   - [Collections](#cs_col)
 - [Dev Tools](#tools)
@@ -84,6 +84,13 @@ Notes are in the
 [Making Python Fast](https://martinheinz.dev/blog/13)
 
 [C-Python Internals](http://www.pgbovine.net/cpython-internals.htm)
+
+<a name="cs_js" >
+  
+## JS/TS Programming:
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+[Deep Javascript](https://exploringjs.com/deep-js/)
 
 <a name="cs_r" >
 
@@ -190,12 +197,6 @@ Other Free resources:
 
 [Etudes of Elixir](https://github.com/oreillymedia/etudes-for-elixir)
 
-<a name="cs_js" >
-  
-## JS/TS Programming:
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
-[Deep Javascript](https://exploringjs.com/deep-js/)
 
 <a name="cs_interp">
   
