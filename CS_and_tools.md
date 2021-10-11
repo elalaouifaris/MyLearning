@@ -189,6 +189,8 @@ Other Free resources:
 [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 
 [Lisp in Go by Rob Pike](https://github.com/robpike/lisp)
+  
+[Network Programming in Go](https://tumregels.github.io/Network-Programming-with-Go/)
 
 <a name="cs_elixir">
   
@@ -205,7 +207,7 @@ Other Free resources:
 
 [Crafting interpreters](https://www.craftinginterpreters.com/contents.html)
 
-<a name="cs_scale" >
+<a name="cs_col" >
 
 ## Collections:
 [Awesome courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
