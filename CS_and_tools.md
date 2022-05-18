@@ -48,6 +48,8 @@ link to his [website](https://www.ccs.neu.edu/home/blerner/)
 [Great Ideas in Computer Science](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 Notes are in the
 [old course website](https://www.cs.cmu.edu/~arielpro/15251f15/schedule.html)
+  
+[Introduction to compilers and language design](https://www3.nd.edu/~dthain/compilerbook/)
 
 [Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 
@@ -69,9 +71,9 @@ Notes are in the
 <a name="cs_py" >
 
 ## Python Programming:
-[Think Python](https://interactivepython.org/runestone/static/thinkcspy/index.html) Intro to computer science
+[Think Python](https://greenteapress.com/wp/think-python-2e/)  Intro to computer science
 
-[Python Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) Data structures & algorithms
+[Python Data Structures](https://runestone.academy/ns/books/published/pythonds/index.html#) Data structures & algorithms
 
 [Data Structures & Algorithms in Python](https://pdfs.semanticscholar.org/9eed/92c4fadffc84640b861cdabcc8eb1b4fad91.pdf?_ga=2.141159985.2069754636.1583490008-203674263.1583490008)
 
@@ -83,7 +85,8 @@ Notes are in the
 
 [Making Python Fast](https://martinheinz.dev/blog/13)
 
-[C-Python Internals](http://www.pgbovine.net/cpython-internals.htm)
+[C-Python Internals]([http://www.pgbovine.net/cpython-internals.htm](https://miguendes.me/useful-resources-to-learn-pythons-internals-from-scratch))
+  and [Youtube Videos](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 
 <a name="cs_js" >
   
