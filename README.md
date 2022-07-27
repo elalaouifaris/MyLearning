@@ -6,6 +6,7 @@ This is a list of links to learning ressources that are relevant for my personna
 - Making Decisions:
   - [Science Foundations: Maths & Physics](science_foundations.md)
   - [Data and Decision Sciences - Energy](data_and_decision_sciences.md)
+  - [IIT Madras Courses Selection](iit_madras_courses.md)
 - Making Tools:
   - [Computer Science & Dev Tools](CS_and_tools.md)
   - [Web Dev - Interface Design](web_dev.md)
