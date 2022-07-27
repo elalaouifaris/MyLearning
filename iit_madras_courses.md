@@ -25,5 +25,6 @@
 - [Inverse Methods in Heat Transfer](https://archive.nptel.ac.in/courses/112/106/112106309/)
 
 # Economics
+- [Introduction to Econometrics](https://archive.nptel.ac.in/courses/130/106/130106001/)
 - [Environmental & Ressources Economics](https://archive.nptel.ac.in/courses/130/106/130106113/)
 - [Summer School Algorithmic Game Theory](https://archive.nptel.ac.in/courses/128/106/128106007/)
