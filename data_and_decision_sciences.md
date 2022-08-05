@@ -169,6 +169,7 @@ Quick access to [ADP videos](https://www.youtube.com/playlist?list=PLiCLbsFQNFAx
 - [Advanced Game-Theoretic Models](https://www.youtube.com/playlist?list=PLKLR7D59yU0fuZTH5wjgov31D3DXta_l-)
 - [DTU CEE Summer School 2018](https://www.youtube.com/playlist?list=PLKLR7D59yU0fgC_Ac6v0I0yGO8FcE98GH)
 - [Advanced Optimization and Game Theory for Energy Systems - J. Kazempour](https://youtube.com/playlist?list=PLe7H9pun_r8YHoGv0TnYxUsgbj0xAJmMR)
+- [DTU Summer School 2022: Advanced Optimization, Learning, and Game-Theoretic Models in Energy Systems](https://youtube.com/playlist?list=PLKLR7D59yU0fh3XpOcEPQLvto0_HvpEBL)
 
 ENPC:
 - [PGMO Optimisation et Contôle](https://eductv.enpc.fr/channels/#optimisation-et-controle) 
