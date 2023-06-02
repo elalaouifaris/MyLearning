@@ -92,8 +92,9 @@ or
 
 [Reinforcement Learning Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
   
- [W Powell: Sequential Decision Analytics and Modeling - Modeling with Python](https://castlelab.princeton.edu/wp-content/uploads/2022/11/Powell-SDAM-Nov242022_final_w_frontcover.pdf)
+ [W Powell: Sequential Decision Analytics and Modeling - Modeling with Python](https://castlelab.princeton.edu/sdamodeling)
   and [Code Repo](https://github.com/wbpowell328/stochastic-optimization)
+  Also link to [How to read RLSO](https://castlelab.princeton.edu/howtoreadrlso)
 
 <a name="ds_ts" >
   
